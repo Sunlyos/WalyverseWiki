@@ -10,29 +10,15 @@ Pour information, nous acceptons les versions crackées, premiums, et bedrocks.
 
 ## ASTRALYA (Survie)
 
-<mark style="color:green;">**CONNEXION JAVA :**</mark>
-
-* Version : 1.21.1
+* Version : 1.21.4
 * IP : play.astralya.fr
-
-<mark style="color:green;">**CONNEXION BEDROCK :**</mark>
-
-* IP : bedrock.astralya.fr
-* Port : `19132`
-
-
+* Port bedrock : `19132`
 
 ## SWAYNIGHT (Oneblock)
 
-<mark style="color:green;">**CONNEXION JAVA :**</mark>
-
-* Version : 1.21.1
+* Version : 1.21.4
 * IP : play.swaynight.fr
-
-<mark style="color:green;">**CONNEXION BEDROCK :**</mark>
-
-* IP : bedrock.swaynight.fr
-* Port : `19132`
+* Port bedrock : `19132`
 
 </details>
 
