@@ -99,3 +99,19 @@ _Le builder+ dispose de plus de permissions et est capable de travailler sur des
 ### <mark style="color:green;">Builder</mark>
 
 _Le builder est chargé de la création et de la retouche des structures sur nos serveurs. Il travaille de manière autonome ou en équipe selon le projet, en veillant à ce que chaque build réponde aux attentes du responsable. Il est impliqué dans des projets de petite échelle ou des ajustements dans des zones existantes, et collabore avec les autres membres de l’équipe pour garantir la qualité des constructions._
+
+## 6. ÉQUIPE RÉDACTION
+
+L’Équipe Rédaction est chargée de la création et du maintien à jour du wiki de Walyverse. Elle a pour rôle de rédiger, éditer et organiser les informations afin d’assurer que le contenu soit précis, clair et toujours à jour. Le wiki est une ressource cruciale pour les joueurs, fournissant des informations détaillées sur le gameplay. L’équipe veille à ce que chaque page soit complète et reflète les évolutions de nos serveurs.
+
+### <mark style="color:blue;">Responsable Rédaction</mark>
+
+_Le responsable rédaction supervise l’équipe, coordonne les tâches et s'assure que les contenus soient bien rédigés et conformes aux attentes. Il est en charge des recrutements, des déranks, et de l'organisation des tâches au sein de l'équipe. Le responsable valide les pages proposées et supervise l’évolution du wiki. Il englobe également les responsabilités des rôles en dessous, comme la rédaction et la mise à jour des articles._
+
+### <mark style="color:blue;">Rédacteur+</mark>
+
+_Le rédacteur+ a un rôle clé dans la rédaction et la gestion du wiki. Il a des permissions étendues pour modifier le contenu directement sur le wiki. En plus de rédiger des pages, il assure la mise à jour du contenu, veille à la cohérence du wiki et participe à la validation des articles rédigés par les autres membres de l’équipe. Il aide également les rédacteurs classiques en leur fournissant un soutien et en validant leurs contributions._
+
+### <mark style="color:blue;">Rédacteur</mark>
+
+_Le rédacteur est chargé de la rédaction d'articles pour le wiki. Cependant, il n’a pas la permission de modifier directement le wiki et doit passer par un rédacteur+ ou le responsable pour faire valider ses modifications. Il se concentre sur la création de contenu en suivant les consignes du responsable et des rédacteurs+. Il collabore avec le reste de l'équipe pour garantir que les informations soient à jour et bien présentées._
