@@ -1,7 +1,3 @@
----
-hidden: false
----
-
 # 🎓 Grades Staff
 
 ## 1. L'ADMINISTRATION
