@@ -32,5 +32,5 @@
 
 ## DIVERS
 
-* [🎓 Grades Staff - A TERMINER](divers/grades-staff-a-terminer.md)
+* [🎓 Grades Staff](divers/grades-staff.md)
 * [📃 Kit de presse](divers/kit-de-presse.md)
