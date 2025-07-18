@@ -28,20 +28,6 @@ _Les administrateurs sont essentiels au bon fonctionnement des serveurs, couvran
 À noter que si vous avez un problème sur un quelconque serveur, il est impératif d'**ouvrir un ticket** plutôt que de contacter directement l'administration. La modération est chargée de traiter ces tickets et, si nécessaire, de les transférer aux administrateurs. Les admins, et particulièrement le fondateur, sont souvent très occupés avec leurs nombreuses responsabilités, donc **passer par le système de tickets permet de mieux gérer les demandes et d'assurer une réponse plus efficace**.
 {% endhint %}
 
-
-
-## 2. LE HAUT-STAFF
-
-### <mark style="color:orange;">Responsable</mark>
-
-...
-
-### <mark style="color:blue;">Développeur</mark>
-
-...
-
-
-
 ## 3. LA MODÉRATION
 
 ### <mark style="color:orange;">Modérateur</mark><mark style="color:red;">+</mark>
