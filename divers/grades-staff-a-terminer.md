@@ -5,6 +5,10 @@ hidden: true
 # 🎓 Grades Staff - A TERMINER
 
 ## 1. L'ADMINISTRATION
+L'administration est un pilier central de la structure Walyverse, chargée de la gestion quotidienne et du développement stratégique des serveurs. Elle est sous-divisée en trois rôles : Fondateur, Gérant, et Admin. Ensemble, ils collaborent pour prendre des décisions importantes, superviser les équipes, et assurer le bon fonctionnement global du groupe.
+
+Chaque administrateur a des responsabilités principales définies pour garantir le bon fonctionnement des serveurs. Cependant, leur rôle ne se limite pas à ces tâches spécifiques. Ils peuvent être amenés à accomplir d'autres missions pour répondre aux besoins de Walyverse, y compris des tâches généralement assignées à un autre membre de l'administration. Cette polyvalence permet une meilleure coordination entre toutes les équipes, assurant une gestion fluide et efficace de l'ensemble de Walyverse.
+
 
 ### <mark style="color:red;">Fondateur</mark>
 
