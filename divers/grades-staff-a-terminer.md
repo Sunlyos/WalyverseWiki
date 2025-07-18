@@ -2,7 +2,7 @@
 hidden: true
 ---
 
-# 🎓 Grades Staff - A TERMINER
+# 🎓 Grades Staff
 
 ## 1. L'ADMINISTRATION
 L'administration est un pilier central de la structure Walyverse, chargée de la gestion quotidienne et du développement stratégique des serveurs. Elle est sous-divisée en trois rôles : Fondateur, Gérant, et Admin. Ensemble, ils collaborent pour prendre des décisions importantes, superviser les équipes, et assurer le bon fonctionnement global du groupe.
@@ -28,38 +28,24 @@ _Les administrateurs sont essentiels au bon fonctionnement des serveurs, couvran
 À noter que si vous avez un problème sur un quelconque serveur, il est impératif d'**ouvrir un ticket** plutôt que de contacter directement l'administration. La modération est chargée de traiter ces tickets et, si nécessaire, de les transférer aux administrateurs. Les admins, et particulièrement le fondateur, sont souvent très occupés avec leurs nombreuses responsabilités, donc **passer par le système de tickets permet de mieux gérer les demandes et d'assurer une réponse plus efficace**.
 {% endhint %}
 
-## 3. LA MODÉRATION
+## 2. ÉQUIPE MODÉRATION
+_L'Équipe Modération a pour rôle principal d’accompagner les joueurs, répondre à leurs questions et veiller à une expérience de jeu agréable. Elle est également chargée de faire respecter le règlement et de sanctionner les comportements inappropriés. Contrairement aux autres équipes de Walyverse, comme le build, le graphisme ou la rédaction, la modération n'est pas commune à tout le groupe. Chaque serveur possède sa propre équipe de modération indépendante, agissant spécifiquement sur le serveur dont elle fait partie, tout en étant liée à la structure globale de Walyverse._
 
-### <mark style="color:orange;">Modérateur</mark><mark style="color:red;">+</mark>
+### <mark style="color:orange;">Responsable Modération</mark>
 
-...
+_Le responsable modération supervise l’ensemble de l’équipe de modération. Il gère les recrutements, les déranks et l’évolution des membres. Il intervient dans des situations complexes et veille à la bonne organisation de la modération sur le serveur. Il est aussi en charge de la gestion des conflits internes au sein de l’équipe et collabore directement avec l'administration pour assurer un environnement harmonieux. Il englobe aussi les tâches des rôles en dessous, comme la surveillance, l’assistance et la gestion des sanctions._
+
+
+### <mark style="color:orange;">Modérateur+</mark>
+_Il s'agit d'un modérateur avec quelques responsabilités et permissions supplémentaires. Il gère notamment les partenaires, les sanctions sur le serveur créatif et intervient dans des situations plus complexes. Proche du responsable, il joue un rôle clé dans l’organisation de la modération. Il englobe aussi les tâches des rôles en dessous, comme la surveillance et l'assistance._
 
 ### <mark style="color:orange;">Modérateur</mark>
-
-...
+_Modère la partie en jeu, veille au respect des règles et gère les comportements inappropriés. Il surveille également le chat, répond aux questions des joueurs et s'assure de la bonne ambiance en jeu._
 
 ### <mark style="color:blue;">Guide</mark>
+_Se concentre principalement sur la modération du chat en jeu. Il répond aux questions des joueurs et les oriente dans leur expérience, tout en s’assurant que les échanges restent respectueux et conviviaux._
 
-...
+### <mark style="color:purple;">Support</mark>
+_Exclusivement présent sur Discord, sans accès en jeu, il gère les tickets et la modération Discord, aux côtés du reste de l'équipe._
 
-### <mark style="color:purple;">Support-Discord</mark>
-
-...
-
-## 4. PÔLES DIVERS
-
-### <mark style="color:purple;">Animateur</mark>
-
-...
-
-### <mark style="color:blue;">Graphiste</mark>
-
-...
-
-### <mark style="color:green;">Builder</mark>
-
-...
-
-### <mark style="color:yellow;">Rédacteur</mark>
-
-...
+## 3. 
