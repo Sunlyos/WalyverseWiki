@@ -114,9 +114,34 @@ Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans 
 {% endtab %}
 {% endtabs %}
 
-## Zones
+## 🗺️ Zones
+
+Les zones sont des "sous-claims", permettant de définir des règles spécifiques dans une partie d'un claim.&#x20;
+
+<details>
+
+<summary><mark style="color:green;">Le nombre de zones disponibles dépend du grade du joueur :</mark> </summary>
+
+* Naufragé : `0 zone`
+
+- Moussaillon : `5 zones`
+
+* Matelot : `10 zones`
+
+- Canonnier: `15 zones`
+
+* Second : `20 zones`
+
+- Capitaine : `25 zones`
+
+* Corsaire : `30 zones`
+
+- Astralis : `45 zones` \
 
 
+Avec le système de **zones**, vous pouvez définir des **règles localisées** : un rôle peut être autorisé à ouvrir les portes dans une zone, mais pas dans une autre. Ça c'est de la technologie !😎
+
+</details>
 
 ## 📜 Flags & Paramètres
 
