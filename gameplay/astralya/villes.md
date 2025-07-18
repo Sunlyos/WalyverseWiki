@@ -24,6 +24,7 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 | <mark style="color:red;">`/ville claim`</mark>                 | Claim le chunk dans lequel vous vous trouvez.                         |
 | <mark style="color:red;">`/ville claim auto`</mark>            | Activer/Désactiver le claim automatique des chunks en passant dedans. |
 | <mark style="color:red;">`/ville map`</mark>                   | Menu interactif cliquable pour claim.                                 |
+| <mark style="color:red;">`/ville unclaim`</mark>               | Unclaim le chunk dans lequel vous vous trouvez.                       |
 | <mark style="color:red;">`/ville spawn "NomDeLaVille"`</mark>  | Se téléporter au spawn d'une ville.                                   |
 | <mark style="color:red;">`/ville edit "NomDeLaVille"`</mark>   | Mode édition de la ville.                                             |
 
