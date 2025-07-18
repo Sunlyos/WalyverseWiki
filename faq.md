@@ -1,0 +1,132 @@
+# ⁉️ FAQ
+
+## <mark style="color:yellow;">GÉNÉRAL</mark>
+
+<details>
+
+<summary>Comment jouer sur Astralya ou SwayNight ?</summary>
+
+Pour information, nous acceptons les versions crackées, premiums, et bedrocks.
+
+## ASTRALYA (Survie)
+
+<mark style="color:green;">**CONNEXION JAVA :**</mark>
+
+* Version : 1.21.1
+* IP : play.astralya.fr
+
+<mark style="color:green;">**CONNEXION BEDROCK :**</mark>
+
+* IP : bedrock.astralya.fr
+* Port : `19132`
+
+
+
+## SWAYNIGHT (Oneblock)
+
+<mark style="color:green;">**CONNEXION JAVA :**</mark>
+
+* Version : 1.21.1
+* IP : play.swaynight.fr
+
+<mark style="color:green;">**CONNEXION BEDROCK :**</mark>
+
+* IP : bedrock.swaynight.fr
+* Port : `19132`
+
+</details>
+
+<details>
+
+<summary>Le pack de texture ne veut pas charger, que faire ?</summary>
+
+1. Rendez-vous dans votre <mark style="color:green;">liste de serveurs</mark>, et cliquez sur le serveur où vous jouez ![](<.gitbook/assets/image (10).png>)
+2. Une fois le serveur sélectionné, cliquez sur "<mark style="color:green;">**Modifier**</mark>" tout en bas![](<.gitbook/assets/image (28).png>)
+3. Sur la page qui s'ouvre, <mark style="color:green;">acceptez les textures packs du serveur</mark>![](<.gitbook/assets/image (29).png>)
+4. Reconnectez vous ensuite au serveur, et le texture pack devrait charger. Si ce n'est pas le cas, n'hésitez pas à contacter notre équipe sur Discord. :smile:
+
+</details>
+
+<details>
+
+<summary>Quelle est la distance de vue des serveurs ?</summary>
+
+La distance de vue est de 7 en survie, et 8 en oneblock
+
+</details>
+
+
+
+## <mark style="color:yellow;">GAMEPLAY</mark>
+
+<details>
+
+<summary>Quelle est la limite d'entités par chunk ?</summary>
+
+Il ne peut y avoir que 16 entités par chunks.
+
+</details>
+
+<details>
+
+<summary>Je suis mort ! Comment puis-je récupérer mon stuff ?</summary>
+
+Bien que nous ne remboursons pas les stuffs perdus par une cause naturelle du jeu, il y a la possibilité de récupérer son stuff en utilisant la commande <mark style="color:red;">`/dback`</mark>.
+
+</details>
+
+<details>
+
+<summary>Peut-on aller sur le toit du Nether ?</summary>
+
+<mark style="color:red;">Non</mark>, comme le stipule notre [reglement-en-jeu.md](informations/reglement-en-jeu.md "mention"), cela est <mark style="color:red;">formellement interdit</mark>.
+
+</details>
+
+<details>
+
+<summary>Quelle est la difficulté des serveurs ?</summary>
+
+Tous nos serveurs sont en difficulté _<mark style="color:green;">Normale</mark>_.
+
+</details>
+
+<details>
+
+<summary>Puis-je casser des spawners ?</summary>
+
+Seuls les joueurs possédant un grade achetable sur notre `/boutique` peuvent casser des spawners. Le grade Astralis/Aetheris permet de les récupérer **sans cet enchantement**.
+
+Si vous ne possédez pas le grade, n'hésitez pas à demander l'aide d'autres joueurs pour casser un spawner. La plupart d'entre eux sont très serviables. Toutefois, merci de respecter leur décision en cas de refus et privilégiez toujours de solliciter un autre joueur plutôt qu'un membre du staff pour ce type de service.
+
+</details>
+
+
+
+## <mark style="color:yellow;">DIVERS</mark>
+
+<details>
+
+<summary>Puis-je utiliser Schematica/Litematica ou un mod mini map ?</summary>
+
+Les mods qui n'offrent pas d'avantage injuste par rapport aux autres joueurs et qui n'altèrent pas les mécaniques de base du jeu sont autorisés. Pour Schematica/Litematica : le mode "print" est autorisé seulement sur le serveur créatif. _Voir_ [reglement-en-jeu.md](informations/reglement-en-jeu.md "mention")
+
+</details>
+
+<details>
+
+<summary>À quelle heure a lieu le redémarrage automatique ?</summary>
+
+La totalité de nos serveurs redémarrent **tous les jours à&#x20;**<mark style="color:yellow;">**06:00**</mark>.
+
+</details>
+
+<details>
+
+<summary>Je n'arrive pas à lire les menus, que faire ?</summary>
+
+Rendez-vous dans vos options graphiques, et mettez la **taille de l’interface** à <mark style="color:green;">2</mark>.
+
+![](<.gitbook/assets/image (21).png>)
+
+</details>
