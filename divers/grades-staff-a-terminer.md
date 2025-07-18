@@ -37,15 +37,33 @@ _Le responsable modération supervise l’ensemble de l’équipe de modération
 
 
 ### <mark style="color:orange;">Modérateur+</mark>
+
 _Il s'agit d'un modérateur avec quelques responsabilités et permissions supplémentaires. Il gère notamment les partenaires, les sanctions sur le serveur créatif et intervient dans des situations plus complexes. Proche du responsable, il joue un rôle clé dans l’organisation de la modération. Il englobe aussi les tâches des rôles en dessous, comme la surveillance et l'assistance._
 
 ### <mark style="color:orange;">Modérateur</mark>
+
 _Modère la partie en jeu, veille au respect des règles et gère les comportements inappropriés. Il surveille également le chat, répond aux questions des joueurs et s'assure de la bonne ambiance en jeu._
 
 ### <mark style="color:blue;">Guide</mark>
+
 _Se concentre principalement sur la modération du chat en jeu. Il répond aux questions des joueurs et les oriente dans leur expérience, tout en s’assurant que les échanges restent respectueux et conviviaux._
 
 ### <mark style="color:purple;">Support</mark>
+
 _Exclusivement présent sur Discord, sans accès en jeu, il gère les tickets et la modération Discord, aux côtés du reste de l'équipe._
 
-## 3. 
+## 3. ÉQUIPE CRÉATION
+L’Équipe Création participe activement à la conception et à l’écriture des quêtes temporaires, principalement pour les grands événements comme Halloween, Noël et d'autres événements majeurs. Elle développe des quêtes originales et immersives, avec des objectifs variés, et des histoires captivantes. Elle travaille en collaboration directe avec l'administration et l'équipe de build pour concevoir des événements mémorables.
+Attention, l'équipe de création se focalise sur les événements majeurs, tels que Noël et Halloween. Elle ne doit pas être confondue avec l’équipe animation, qui organise des événements plus petits, généralement le dimanche, comme du jump, du parcours, ou du spleef.
+
+### <mark style="color:yellow;">Responsable Création</mark>
+
+_Le responsable création supervise l’équipe et coordonne les différents projets dont est chargée l'équipe. Il est en charge des recrutements, des déranks et de la répartition des missions. Il valide les quêtes proposées, gère les tâches complexes et veille à ce que les événements respectent la vision du groupe. Il englobe aussi les responsabilités des rôles en dessous, comme la création de quêtes._
+
+### <mark style="color:yellow;">Création+</mark>
+
+_Le rôle de Création+ est clé dans la création et la validation des quêtes. Il a des permissions en jeu pour créer et tester les quêtes directement sur le serveur. Il guide les nouveaux membres, corrige les erreurs, et veille à ce que les quêtes respectent les standards._
+
+### <mark style="color:yellow;">Création</mark>
+
+_Il se concentre sur la rédaction des quêtes, sans accès en jeu. Il utilise les outils internes pour créer et préparer les quêtes. Une fois créées, les quêtes sont validées et implémentées en jeu par les créateurs+ et responsables. Il collabore avec les autres membres de l’équipe pour garantir la diversité et la qualité des quêtes._
