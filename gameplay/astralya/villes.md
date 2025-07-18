@@ -108,7 +108,7 @@ Chaque membre ajouté à votre ville apporte des chunks supplémentaires selon s
 {% endtab %}
 
 {% tab title="Exemple 🧮 " %}
-Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter le bonus n°2, soit les chunks support) peut déjà obtenir jusqu’à :
+Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter les chunks support) peut déjà obtenir jusqu’à :
 
 > 1000 chunks (grade Astralis) +4150 chunks × 2 (niveau Empire × 2 villes) = **9300 chunks au total**, sans compter les chunks support apportés par les membres !
 {% endtab %}
