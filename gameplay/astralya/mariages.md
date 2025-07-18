@@ -1,6 +1,6 @@
 ---
 description: >-
-  🕊️ Le mariage est un moyen d'unir deux joueurs ! Les marié(e)s acquièrent des
+  Le mariage est un moyen d'unir deux joueurs ! Les marié(e)s acquièrent des
   commandes exclusives à cet évènement. 🕊️
 ---
 
@@ -23,11 +23,10 @@ description: >-
 
 <summary>🧐 <mark style="color:green;">Comment et où demander pour se marier à un joueur ?</mark></summary>
 
-* <mark style="color:yellow;">**En jeu**</mark> : Si un membre du staff est disponible et que tout est prêt de votre côté, n'attendez plus et unissez vous avec votre moitié en indiquant le lieu de la cérémonie. Vous pouvez aussi trouver un accord pour que l'heure convienne à tous !
-* <mark style="color:yellow;">**Par ticket**</mark> [<mark style="color:yellow;">**Discord**</mark>](https://astralya.fr/discord) : Si aucun staff n'est disponible en jeu ou qu'il s'agit d'une demande de mariage organisé tel jour, n'hésitez pas à faire un ticket pour trouver un prête disponible à la date prévue !
+* <mark style="color:yellow;">**En jeu**</mark> : Si un membre du staff est disponible et que tout est prêt de votre côté, n'attendez plus et unissez vous avec votre moitié en indiquant le lieu de la cérémonie. Vous pouvez aussi trouver un accord pour que l'heure convienne à tous.
+* <mark style="color:yellow;">**Par ticket**</mark> [<mark style="color:yellow;">**Discord**</mark>](https://astralya.fr/discord) : Si aucun staff n'est disponible en jeu ou qu'il s'agit d'une demande de mariage organisé tel jour, n'hésitez pas à faire un ticket pour trouver un prête disponible à la date prévue.
 
-\
-💡 Le channel :herb:Communauté sur notre serveur discord peut être un moyen d'annoncer à tous, en détail, l'évènement à venir et ainsi permettre aux joueurs d'être présents !
+💡 Le channel :herb:Communauté sur notre serveur discord peut être un moyen d'annoncer à tous, en détail, l'évènement à venir et ainsi permettre aux joueurs d'être présents.
 
 </details>
 
@@ -64,4 +63,6 @@ C'est là que les choses sérieuses commencent ! 🕊️
 | <mark style="color:red;">`/marry gift`</mark>                                                    | Faire un cadeau à son partenaire.                                                                          |
 | <mark style="color:red;">`/marry divorce "joueur"`</mark>                                        | <p>Divorcer de son partenaire. <br>Les deux joueurs doivent être connectés et proches l'un de l'autre.</p> |
 
-<mark style="color:red;background-color:red;">⚠️ SE SERVIR DE LA COMMANDE /MARRY TP DANS LES MAPS D'EVENTS EN CONTOURNANT LES /TPA EST INTERDIT ET SANCTIONNABLE ⚠️</mark>
+{% hint style="danger" %}
+Se servir de la commande /marry tp dans les maps événementielles en contournant les /tpa est interdit et sanctionnable.
+{% endhint %}
