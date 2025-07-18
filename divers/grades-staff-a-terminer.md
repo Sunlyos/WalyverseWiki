@@ -84,3 +84,18 @@ _L’animateur+ assume des responsabilités accrues par rapport à l'animateur c
 
 _L'animateur est chargé de la conception et de l’animation des événements. Il imagine des activités amusantes et variées pour les joueurs, et crée les zones nécessaires en jeu pour les réaliser. Pendant l'événement, il coordonne les joueurs, veille à ce que tout se déroule bien et s'assure de maintenir une ambiance conviviale et dynamique._
 
+## 5. ÉQUIPE BUILD
+
+L’Équipe Build est principalement chargée de la retouche des constructions existantes sur les serveurs de Walyverse. Leur rôle consiste à ajuster, améliorer et personnaliser les builds en jeu, que ce soit pour des zones existantes, des événements ou des projets spécifiques. Bien que l'équipe puisse être amenée à réaliser des constructions complètes, la majorité de son travail consiste à apporter des modifications sur des builds déjà existants. Elle peut par exemple être amenée à travailler avec l’administration pour des retouches ou des ajouts dans des zones précises, l’équipe d’animation pour créer ou ajuster des zones pour les événements, et peut intervenir avec l’équipe de création pour créer ou ajuster des maps destinées aux quêtes. Quelques exemples de tâches incluent la retouche de spawns, l’ajustement de zones événementielles pour l’animation, ou encore la modification de maps de quête pour répondre aux besoins de l'équipe création
+
+### <mark style="color:green;">Responsable Build</mark>
+
+_Le responsable build supervise l’équipe et coordonne les projets de construction, en garantissant la qualité et la cohérence de chacun. Il gère les demandes spécifiques venant des différentes équipes, et répartit les tâches au sein de son équipe pour s'assurer que les constructions répondent à ces demandes. Il valide les projets et assure la bonne organisation du travail au sein de l’équipe. Il englobe aussi les responsabilités des rôles en dessous : il build._
+
+### <mark style="color:green;">Builder+</mark>
+
+_Le builder+ dispose de plus de permissions et est capable de travailler sur des projets plus complexes ou confidentiels. En plus de ses responsabilités de construction, il aide le responsable à coordonner les projets plus importants et peut intervenir sur des zones nécessitant des ajustements plus techniques ou précis._
+
+### <mark style="color:green;">Builder</mark>
+
+_Le builder est chargé de la création et de la retouche des structures sur nos serveurs. Il travaille de manière autonome ou en équipe selon le projet, en veillant à ce que chaque build réponde aux attentes du responsable. Il est impliqué dans des projets de petite échelle ou des ajustements dans des zones existantes, et collabore avec les autres membres de l’équipe pour garantir la qualité des constructions._
