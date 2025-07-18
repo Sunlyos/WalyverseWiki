@@ -67,3 +67,20 @@ _Le rôle de Création+ est clé dans la création et la validation des quêtes.
 ### <mark style="color:yellow;">Création</mark>
 
 _Il se concentre sur la rédaction des quêtes, sans accès en jeu. Il utilise les outils internes pour créer et préparer les quêtes. Une fois créées, les quêtes sont validées et implémentées en jeu par les créateurs+ et responsables. Il collabore avec les autres membres de l’équipe pour garantir la diversité et la qualité des quêtes._
+
+## 4. ÉQUIPE ANIMATION
+L’Équipe Animation est responsable de la mise en place et de l’animation des événements du dimanche sur Walyverse. Leur rôle est d’imaginer et de concevoir des animations originales, de créer les zones nécessaires en jeu, et de gérer l’ensemble de l’organisation pour garantir une expérience divertissante pour tous les joueurs. Elle travaille en collaboration avec l'administration pour concevoir des événements mémorables.
+Attention, elle ne doit pas être confondue avec l’équipe création, qui se focalise sur les événements majeurs comme Noël et Halloween, en concevant des quêtes et des activités de plus grande envergure. L’équipe animation se concentre sur l’organisation des événements plus petits et réguliers, principalement les événements du dimanche, tels que du jump, de parcours, ou du spleef.
+
+### <mark style="color:purple;">Responsable Animation</mark>
+
+_Le responsable animation supervise l’équipe et coordonne les événements. Il est en charge des recrutements, des déranks et de l’organisation générale des animations. Il valide les concepts des événements, veille à leur bonne organisation et s’assure que l’équipe respecte les standards. Il englobe également les responsabilités des rôles en dessous, comme la création, la gestion et la supervision des animations._
+
+### <mark style="color:purple;">Animateur+</mark>
+
+_L’animateur+ assume des responsabilités accrues par rapport à l'animateur classique. Il est capable de gérer des situations complexes, telles que la gestion des sanctions, et peut animer en solo devant tous les joueurs pour les consignes. En plus de créer et organiser des événements, il aide le responsable à guider les nouveaux membres et s’assure du bon déroulement des animations._
+
+### <mark style="color:purple;">Animateur</mark>
+
+_L'animateur est chargé de la conception et de l’animation des événements. Il imagine des activités amusantes et variées pour les joueurs, et crée les zones nécessaires en jeu pour les réaliser. Pendant l'événement, il coordonne les joueurs, veille à ce que tout se déroule bien et s'assure de maintenir une ambiance conviviale et dynamique._
+
