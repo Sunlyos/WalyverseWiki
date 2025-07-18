@@ -32,6 +32,7 @@ _Les administrateurs sont essentiels au bon fonctionnement des serveurs, couvran
 _L'Équipe Modération a pour rôle principal d’accompagner les joueurs, répondre à leurs questions et veiller à une expérience de jeu agréable. Elle est également chargée de faire respecter le règlement et de sanctionner les comportements inappropriés. Contrairement aux autres équipes de Walyverse, comme le build, le graphisme ou la rédaction, la modération n'est pas commune à tout le groupe. Chaque serveur possède sa propre équipe de modération indépendante, agissant spécifiquement sur le serveur dont elle fait partie, tout en étant liée à la structure globale de Walyverse._
 
 > [Rejoindre l'équipe d'Astralya](https://astralya.fr/recrutements)
+
 > [Rejoindre l'équipe de SwayNight](https://swaynight.fr/recrutements)
 
 ### <mark style="color:orange;">Responsable Modération</mark>
