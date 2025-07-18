@@ -8,13 +8,11 @@ cover: >-
 coverY: 0
 ---
 
-# 📜 Recrutements Staff testtt
+# 📜 Recrutements Staff
 
 ## <mark style="color:yellow;">Préambule</mark>
 
 Avant de postuler, il est crucial de prendre en compte les points suivants. En envoyant votre candidature, vous confirmez avoir **lu et approuvé** ces informations. Tout manquement aux prérequis ou aux informations importantes entraînera le <mark style="color:red;">**refus**</mark> de votre candidature.
-
-
 
 ## <mark style="color:yellow;">Informations</mark>
 
@@ -36,21 +34,18 @@ Avant de postuler, il est crucial de prendre en compte les points suivants. En e
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f512">🔒</span> <mark style="color:green;">Prérequis obligatoires</mark></summary>
 
-## <mark style="color:blue;">DEVENIR GUIDE :</mark>
+### <mark style="color:blue;">DEVENIR GUIDE :</mark>
 
 * Avoir minimum **16 ans**.
 * Avoir une **orthographe correcte et sans fautes**.
 * Être capable de **travailler en équipe**.
 * Être capable de **garder son sang froid** et de faire preuve de **diplomatie**.
-* Être présent depuis au moins **3 semaines** sur le serveur.&#x20;
-* Posséder une **banlist** (liste des sanctions) propre.&#x20;
+* Être présent depuis au moins **3 semaines** sur le serveur.
+* Posséder une **banlist** (liste des sanctions) propre.
 * **Ne pas être membre du staff d'un autre serveur.**
 
 </details>
 
-
-
 ## <mark style="color:yellow;">Candidater</mark>
 
 <table><thead><tr><th width="176">Grade</th><th width="125">Serveur</th><th>Postuler</th></tr></thead><tbody><tr><td><mark style="color:blue;">[</mark><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span><mark style="color:blue;">] Guide</mark><br><mark style="color:purple;">[</mark><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span><mark style="color:purple;">] Support</mark></td><td><mark style="color:green;">Astralya</mark></td><td><a href="https://docs.google.com/forms/d/e/1FAIpQLScitlJh608zt6gYVL1A4jh8YR7CFXfxDtMj5TAHWZLrmgfrsg/viewform">Cliquez pour accéder au formulaire.</a></td></tr><tr><td><mark style="color:blue;">[</mark><span data-gb-custom-inline data-tag="emoji" data-code="1f535">🔵</span><mark style="color:blue;">] Guide</mark><br><mark style="color:purple;">[</mark><span data-gb-custom-inline data-tag="emoji" data-code="1f7e3">🟣</span><mark style="color:purple;">] Support</mark></td><td><mark style="color:yellow;">SwayNight</mark></td><td><a href="https://docs.google.com/forms/d/e/1FAIpQLSfGjo0oHIOfrRmhGCth5-4P0IwV2wh-YVo9t00t9G6yGYh7Tg/viewform">Cliquez pour accéder au formulaire.</a></td></tr><tr><td><p><mark style="color:purple;">[</mark><span data-gb-custom-inline data-tag="emoji" data-code="1f389">🎉</span><mark style="color:purple;">] Animateur</mark></p><p><mark style="color:green;">[🟢] Builder</mark></p></td><td><mark style="color:orange;">Walyverse</mark></td><td>Ouvrez un ticket sur le serveur sur lequel vous jouez.</td></tr><tr><td><mark style="color:blue;">[</mark><span data-gb-custom-inline data-tag="emoji" data-code="1f4d8">📘</span><mark style="color:blue;">] Développeur</mark></td><td><mark style="color:orange;">Walyverse</mark></td><td><mark style="color:red;">Les recrutements de développeurs se font exclusivement en interne et sont strictement encadrés. Il est par exemple nécessaire d'avoir une certaine ancienneté et d'avoir gagné la pleine confiance de l'administration au fil du temps.</mark></td></tr></tbody></table>
-

@@ -1,4 +1,4 @@
-# 💶 Shops&#x20;
+# 💶 Shops
 
 Les shops sont un moyen de vendre ou acheter via des coffres : vous pouvez proposer ou demander n'importe quel item et en fixer le prix, à condition qu'il soit raisonnable et respecte l'équilibre économique du serveur.
 

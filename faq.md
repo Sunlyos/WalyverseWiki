@@ -8,13 +8,13 @@
 
 Pour information, nous acceptons les versions crackées, premiums, et bedrocks.
 
-## ASTRALYA (Survie)
+### ASTRALYA (Survie)
 
 * Version : 1.21.4
 * IP : play.astralya.fr
 * Port bedrock : `19132`
 
-## SWAYNIGHT (Oneblock)
+### SWAYNIGHT (Oneblock)
 
 * Version : 1.21.4
 * IP : play.swaynight.fr
@@ -40,8 +40,6 @@ Pour information, nous acceptons les versions crackées, premiums, et bedrocks.
 La distance de vue est de 7 en survie, et 8 en oneblock
 
 </details>
-
-
 
 ## <mark style="color:yellow;">GAMEPLAY</mark>
 
@@ -86,8 +84,6 @@ Seuls les joueurs possédant un grade achetable sur notre `/boutique` peuvent ca
 Si vous ne possédez pas le grade, n'hésitez pas à demander l'aide d'autres joueurs pour casser un spawner. La plupart d'entre eux sont très serviables. Toutefois, merci de respecter leur décision en cas de refus et privilégiez toujours de solliciter un autre joueur plutôt qu'un membre du staff pour ce type de service.
 
 </details>
-
-
 
 ## <mark style="color:yellow;">DIVERS</mark>
 

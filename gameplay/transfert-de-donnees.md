@@ -10,7 +10,7 @@ Puisque les versions crackées sont acceptées sur nos serveurs, votre progressi
 
 <summary>⚙️ Ce que je dois savoir !</summary>
 
-* Faire un ticket sur le discord du serveur en question.
+* Faire un ticket sur le discord du serveur en question. [Astralya](http://discord.gg/astralya) | [Swaynight](https://discord.gg/swaynight)
 
 Pour procéder au transfert de données, il faut que les deux comptes soient connectés en même temps. Pour se faire, des applications crackées existent comme par exemple, Tlauncher.
 
