@@ -57,7 +57,7 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 ## Limites et évolutions
 
-
+La limite du nombre de chunks pouvant être claim par le joueur augmente avec plusieurs facteurs : Le grade du joueur, le niveau de la ville ainsi que les chunks support.&#x20;
 
 ***
 
@@ -65,4 +65,4 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 ## Flags
 
-* 3 types de flags : naturels, gestion de mb, et j'sais plus quoi
+* 3 types de flags : naturels, gestion de mb, et j'sais plus quoi (action ?)
