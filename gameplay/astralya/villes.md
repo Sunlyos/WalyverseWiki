@@ -8,13 +8,14 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 ## Informations pour le changement de système
 
+?? je trouve pas ça super utile si ? :o en + si on dit que les joueurs ont le temps ils vont le faire le 364e jour&#x20;
 
+## 🧐 Commandes principales des villes
 
-## Commandes principales des villes
+* <mark style="color:green;">Création de la ville</mark> 🏘️&#x20;
 
-
-
-* Création de la ville 🏘️&#x20;
+Naufragé, Moussaillon, Matelot : 1 Ville.\
+Canonnier, Second, Capitaine, Corsaire : 2 Villes. (<mark style="color:red;">`/grades`</mark>)
 
 | Commande                                                       | Description                                                           |
 | -------------------------------------------------------------- | --------------------------------------------------------------------- |
@@ -30,7 +31,7 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 
 
-* Membres & Discussions 💭
+* <mark style="color:green;">Membres & Discussions</mark> 💭
 
 | Commande                                                               | Description                                                                                    |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
@@ -43,7 +44,9 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 :bulb: Les villes ont été repensées pour regrouper le système de claim et celui des guildes. En plus de la commande en jeu regroupant la liste des villes qui recrutent, le super channel :herb:Communauté sur [discord](http://discord.gg/astralya) est à ta disposition.&#x20;
 
-* Économie & Niveaux&#x20;
+
+
+* <mark style="color:green;">Niveaux & Économie</mark>💲
 
 | Commande                                                            | Description                                        |
 | ------------------------------------------------------------------- | -------------------------------------------------- |
@@ -55,14 +58,67 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 :bulb: Une nouvelle catégorie pour les villes a été ajoutée au /profil des joueurs ! Elle permet de voir combien de chunk(s) ont déjà été claim(s) par la ville sélectionnée dans le menu /villes, et le total de chunks pouvant être claims.
 
-## Limites et évolutions
+## 🏡 Faire évoluer sa ville&#x20;
 
-La limite du nombre de chunks pouvant être claim par le joueur augmente avec plusieurs facteurs : Le grade du joueur, le niveau de la ville ainsi que les chunks support.&#x20;
+L'évolution du nombre de chunks pouvant être claim par le joueur augmente avec plusieurs facteurs : Le grade du Maire, le niveau de la ville ainsi que les chunks support de membre.&#x20;
 
-***
+{% tabs %}
+{% tab title="Maire de la ville 📌" %}
+Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limite de chunks pouvant être claim. En effet :&#x20;
+
+* Naufragé : `50 chunks`
+* Moussaillon : `100 chunks`
+* Matelot : `150 chunks`
+* Canonnier: `250 chunks`
+* Second : `350 chunks`
+* Capitaine : `500 chunks`
+* Corsaire : `600 chunks`
+* Astralis : `1000 chunks`&#x20;
+{% endtab %}
+
+{% tab title="Niveau de la ville 📈" %}
+💡Consultez votre niveau avec <mark style="color:red;">`/ville level`</mark>.\
+
+
+* Abri (Niveau par défaut) : `+0 chunk`
+* Campement : `+100 chunks`
+* Village : `+250 chunks`
+* Cité : `+500 chunks`
+* Province : `+800 chunks`
+* Ordre : `+1000 chunks`
+* Empire : `+1500 chunks`\
+  \
+  ✅ Ces bonus sont cumulables, donc une ville Empire a un total de 4150 chunks supplémentaires.\
+
+{% endtab %}
+
+{% tab title="Chunks support 🫂" %}
+Chaque membre ajouté à votre ville apporte des chunks supplémentaires selon son grade :
+
+* Naufragé : `+0 chunk`
+* Moussaillon : `+5 chunks`
+* Matelot : `+8 chunks`
+* Canonnier: `+13 chunks`
+* Second : `+18 chunks`
+* Capitaine : `+25 chunks`
+* Corsaire : `+30 chunks`
+* Astralis : `+50 chunks` \
+  \
+  \- <mark style="color:red;">`/ville trust "pseudo"`</mark> 😜&#x20;
+{% endtab %}
+
+{% tab title="Exemple 🧮 " %}
+Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter le bonus n°2, soit les chunks support) peut déjà obtenir jusqu’à :
+
+> 1000 chunks (grade Astralis) +4150 chunks × 2 (niveau Empire × 2 villes) = **9300 chunks au total**, sans compter les chunks support apportés par les membres !
+{% endtab %}
+{% endtabs %}
 
 ## Zones
 
-## Flags
+
+
+## 📜 Flags & Paramètres
 
 * 3 types de flags : naturels, gestion de mb, et j'sais plus quoi (action ?)
+
