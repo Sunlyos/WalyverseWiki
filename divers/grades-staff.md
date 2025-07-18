@@ -28,10 +28,13 @@ _Les administrateurs sont essentiels au bon fonctionnement des serveurs, couvran
 À noter que si vous avez un problème sur un quelconque serveur, il est impératif d'**ouvrir un ticket** plutôt que de contacter directement l'administration. La modération est chargée de traiter ces tickets et, si nécessaire, de les transférer aux administrateurs. Les admins, et particulièrement le fondateur, sont souvent très occupés avec leurs nombreuses responsabilités, donc **passer par le système de tickets permet de mieux gérer les demandes et d'assurer une réponse plus efficace**.
 {% endhint %}
 
+***
+
 ## 2. ÉQUIPE MODÉRATION
 _L'Équipe Modération a pour rôle principal d’accompagner les joueurs, répondre à leurs questions et veiller à une expérience de jeu agréable. Elle est également chargée de faire respecter le règlement et de sanctionner les comportements inappropriés. Contrairement aux autres équipes de Walyverse, comme le build, le graphisme ou la rédaction, la modération n'est pas commune à tout le groupe. Chaque serveur possède sa propre équipe de modération indépendante, agissant spécifiquement sur le serveur dont elle fait partie, tout en étant liée à la structure globale de Walyverse._
 
 > [Rejoindre l'équipe d'Astralya](https://astralya.fr/recrutements)
+
 > [Rejoindre l'équipe de SwayNight](https://swaynight.fr/recrutements)
 
 ### <mark style="color:orange;">Responsable Modération</mark>
@@ -55,6 +58,8 @@ _Se concentre principalement sur la modération du chat en jeu. Il répond aux q
 
 _Exclusivement présent sur Discord, sans accès en jeu, il gère les tickets et la modération Discord, aux côtés du reste de l'équipe._
 
+***
+
 ## 3. ÉQUIPE CRÉATION
 L’Équipe Création participe activement à la conception et à l’écriture des quêtes temporaires, principalement pour les grands événements comme Halloween, Noël et d'autres événements majeurs. Elle développe des quêtes originales et immersives, avec des objectifs variés, et des histoires captivantes. Elle travaille en collaboration directe avec l'administration et l'équipe de build pour concevoir des événements mémorables.
 Attention, l'équipe de création se focalise sur les événements majeurs, tels que Noël et Halloween. Elle ne doit pas être confondue avec l’équipe animation, qui organise des événements plus petits, généralement le dimanche, comme du jump, du parcours, ou du spleef.
@@ -72,6 +77,8 @@ _Le rôle de Création+ est clé dans la création et la validation des quêtes.
 ### <mark style="color:yellow;">Création</mark>
 
 _Il se concentre sur la rédaction des quêtes, sans accès en jeu. Il utilise les outils internes pour créer et préparer les quêtes. Une fois créées, les quêtes sont validées et implémentées en jeu par les créateurs+ et responsables. Il collabore avec les autres membres de l’équipe pour garantir la diversité et la qualité des quêtes._
+
+***
 
 ## 4. ÉQUIPE ANIMATION
 L’Équipe Animation est responsable de la mise en place et de l’animation des événements du dimanche sur Walyverse. Leur rôle est d’imaginer et de concevoir des animations originales, de créer les zones nécessaires en jeu, et de gérer l’ensemble de l’organisation pour garantir une expérience divertissante pour tous les joueurs. Elle travaille en collaboration avec l'administration pour concevoir des événements mémorables.
@@ -91,6 +98,8 @@ _L’animateur+ assume des responsabilités accrues par rapport à l'animateur c
 
 _L'animateur est chargé de la conception et de l’animation des événements. Il imagine des activités amusantes et variées pour les joueurs, et crée les zones nécessaires en jeu pour les réaliser. Pendant l'événement, il coordonne les joueurs, veille à ce que tout se déroule bien et s'assure de maintenir une ambiance conviviale et dynamique._
 
+***
+
 ## 5. ÉQUIPE BUILD
 
 L’Équipe Build est principalement chargée de la retouche des constructions existantes sur les serveurs de Walyverse. Leur rôle consiste à ajuster, améliorer et personnaliser les builds en jeu, que ce soit pour des zones existantes, des événements ou des projets spécifiques. Bien que l'équipe puisse être amenée à réaliser des constructions complètes, la majorité de son travail consiste à apporter des modifications sur des builds déjà existants. Elle peut par exemple être amenée à travailler avec l’administration pour des retouches ou des ajouts dans des zones précises, l’équipe d’animation pour créer ou ajuster des zones pour les événements, et peut intervenir avec l’équipe de création pour créer ou ajuster des maps destinées aux quêtes. Quelques exemples de tâches incluent la retouche de spawns, l’ajustement de zones événementielles pour l’animation, ou encore la modification de maps de quête pour répondre aux besoins de l'équipe création.
@@ -108,6 +117,8 @@ _Le builder+ dispose de plus de permissions et est capable de travailler sur des
 ### <mark style="color:green;">Builder</mark>
 
 _Le builder est chargé de la création et de la retouche des structures sur nos serveurs. Il travaille de manière autonome ou en équipe selon le projet, en veillant à ce que chaque build réponde aux attentes du responsable. Il est impliqué dans des projets de petite échelle ou des ajustements dans des zones existantes, et collabore avec les autres membres de l’équipe pour garantir la qualité des constructions._
+
+***
 
 ## 6. ÉQUIPE RÉDACTION
 
