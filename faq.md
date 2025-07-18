@@ -1,6 +1,6 @@
 # ⁉️ FAQ
 
-## <mark style="color:yellow;">GÉNÉRAL test</mark>
+## <mark style="color:yellow;">GÉNÉRAL</mark>
 
 <details>
 
