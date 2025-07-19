@@ -49,7 +49,7 @@ Il faudra patienter le temps qu'un admin s'occupe du ticket et te permette de co
 Voici ce qui sera transféré ✅ :&#x20;
 
 &#x20;    Monnaie, Rubis, Pièces d'or, Shops, Homes, Temps de jeu, /niveau, XP Vanilla, Métiers, Temps de /vol, Grade, Permissions, etc..\
-<sub>_Cette étape est automatique mais nécessite tout de même quelques cliques du joueur._</sub>&#x20;
+<sub>_Cette étape est automatique mais nécessite tout de même quelques clics du joueur._</sub>&#x20;
 
 ⚠️ Tu recevras certaines récompenses **en double** : celles du <mark style="color:red;">`/niveau`</mark> ainsi que du <mark style="color:red;">`/prewards`</mark>. Tu devras impérativement nous les rendre.&#x20;
 
