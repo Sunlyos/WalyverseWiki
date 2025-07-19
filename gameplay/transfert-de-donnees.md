@@ -24,11 +24,11 @@ Il faudra aussi s'armer de patience. En effet, si la plus grosse partie du trans
 
 
 
-⚙️ <mark style="color:yellow;">Ce que je dois faire !</mark>&#x20;
+## ⚙️ <mark style="color:yellow;">Ce que je dois faire !</mark>&#x20;
 
-&#x20;  Comme dit dans le déroulant ci-dessus, je dois faire un ticket sur le serveur concerné. Suite à ça un    staff prendra le ticket en charge et c'est là que tout commence !&#x20;
+Comme dit dans le déroulant ci-dessus, je dois faire un ticket sur le serveur concerné. Suite à ça un    staff prendra le ticket en charge et c'est là que tout commence !&#x20;
 
-Le transfert se fait en 2 étapes distinctes et il nécessite les deux comptes connectés :&#x20;
+&#x20;  Le transfert se fait en 2 étapes distinctes et il nécessite les deux comptes connectés :&#x20;
 
 {% tabs %}
 {% tab title="ÉTAPE 1️⃣" %}
