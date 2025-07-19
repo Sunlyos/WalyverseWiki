@@ -142,7 +142,7 @@ Tu peux par exemple diviser ta ville en quartiers avec des fonctions différente
 * Les flags sont rangés en **3 catégories** :&#x20;
 
 {% tabs %}
-{% tab title="Paramètres naturels" %}
+{% tab title="Paramètres naturels ☘️" %}
 Cette catégorie concerne tous les flags naturels pouvant être activés/désactivés, par exemple :
 
 * Apparition des animaux & des monstres & des phantoms. (_un pour chacun d'eux_)
@@ -154,7 +154,7 @@ Cette catégorie concerne tous les flags naturels pouvant être activés/désact
 &#x20;&#x20;
 {% endtab %}
 
-{% tab title="Options d'actions" %}
+{% tab title="Options d'actions ⚒️" %}
 Cette catégorie concerne toutes les options d'actions pouvant être activées/désactivées, par exemple :
 
 * Casser/Poser des blocs. (_un pour chacun d'eux_)
@@ -166,7 +166,7 @@ Cette catégorie concerne toutes les options d'actions pouvant être activées/d
 Et bien plus à découvrir en jeu.
 {% endtab %}
 
-{% tab title="Options de gestion" %}
+{% tab title="Options de gestion 🔐" %}
 Cette catégorie concerne toutes les options de gestion pouvant être activées/désactivées, par exemple :
 
 * Approuver/Expulser un membre. (_un pour chacun d'eux_)
