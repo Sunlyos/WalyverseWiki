@@ -13,6 +13,7 @@
 
 * [🦜 Astralya](gameplay/astralya/README.md)
   * [🏢 Villes](gameplay/astralya/villes.md)
+  * [🏢 Villes2](gameplay/astralya/villes2.md)
   * [🏆 Grades](gameplay/astralya/grades.md)
   * [🟡 Pièces d'or](gameplay/astralya/pieces-dor.md)
   * [📘 Enchantements personnalisés](gameplay/astralya/enchantements-personnalises.md)
