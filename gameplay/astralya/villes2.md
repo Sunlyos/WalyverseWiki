@@ -207,5 +207,3 @@ Les **flags** sont les règles appliquées dans vos villes ou zones. Ils sont **
 💡 Les flags sont **indépendants selon les zones**, et liés aux **rôles**. Vous pouvez donc avoir un rôle "Habitant" qui peut casser des blocs dans une zone, mais rien faire ailleurs.
 
 ---
-
-Tu veux que je te le mette en `.md` complet avec indentation + assets + GitBook ready ? Ou que je fasse la même chose pour une autre page ?
