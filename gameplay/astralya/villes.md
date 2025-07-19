@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🏢 Villes
 
 Les villes permettent de protéger vos bases et constructions, et de créer vos histoires avec vos amis. Elles sont entièrement personnalisables, selon vos projets et idées, et évoluent selon votre grade et le nombre de personnes qui s'y trouvent.

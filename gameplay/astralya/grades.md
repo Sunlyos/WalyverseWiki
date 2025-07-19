@@ -3,10 +3,13 @@ description: >-
   Les différents grades s'atteignent en progressant sur le serveur et en
   remplissant des conditions propres à ces derniers. Ils donnent accès à des
   commandes exclusives.
-hidden: true
 ---
 
 # 🏆 Grades
+
+### ⚠️​​ Les claims ont été remplacés par le système de [Villes](villes.md), les informations de cette page seront mises à jour progressivement.
+
+
 
 <details>
 
@@ -68,7 +71,7 @@ Obtenu dès l'arrivée sur le serveur, trop classe ! 😎
 
 <figure><img src="../../.gitbook/assets/image (66).png" alt="" width="279"><figcaption></figcaption></figure>
 
-:bulb: Tout savoir sur les [Guildes](https://wiki.walyverse.fr/gameplay/astralya/guildes) !
+:bulb: Tout savoir sur les [Villes](villes.md) !
 
 </details>
 

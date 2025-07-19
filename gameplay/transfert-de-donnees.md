@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # ↪️ Transfert de données
 
 Puisque les versions crackées sont acceptées sur nos serveurs, votre progression est liée à votre pseudo. De ce fait, un changement de pseudo, quel qu'il soit, entrainera une perte de vos données. Pour pallier ce problème, nous mettons à votre disposition une procédure de transfert des données de votre ancien à votre nouveau pseudo. 🤔
