@@ -6,9 +6,7 @@ hidden: true
 
 Les villes permettent de protéger vos bases et constructions, et de créer vos histoires avec vos amis. Elles sont entièrement personnalisables, selon vos projets et idées, et évoluent selon votre grade et le nombre de personnes qui s'y trouvent.
 
-## Informations pour le changement de système
-
-?? je trouve pas ça super utile si ? :o en + si on dit que les joueurs ont le temps ils vont le faire le 364e jour&#x20;
+***
 
 ## 🧐 Commandes principales des villes
 
@@ -59,20 +57,20 @@ Canonnier, Second, Capitaine, Corsaire : 2 Villes. (<mark style="color:red;">`/g
 
 ## 🏡 Faire évoluer sa ville&#x20;
 
-L'évolution du nombre de chunks pouvant être claim par le joueur augmente avec plusieurs facteurs : Le grade du Maire, le niveau de la ville ainsi que les chunks support de membre.&#x20;
+L'évolution du nombre de chunks pouvant être claim par le joueur augmente avec plusieurs facteurs : le grade du Maire, le niveau de la ville, le grade ainsi que les chunks support de membre.&#x20;
 
 {% tabs %}
 {% tab title="Maire de la ville 📌" %}
 Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limite de chunks pouvant être claim. En effet :&#x20;
 
 * Naufragé : `50 chunks`
-* Moussaillon : `100 chunks`
-* Matelot : `150 chunks`
-* Canonnier: `250 chunks`
-* Second : `350 chunks`
-* Capitaine : `500 chunks`
-* Corsaire : `600 chunks`
-* Astralis : `1000 chunks`&#x20;
+* Moussaillon : `115 chunks`
+* Matelot : `195 chunks`
+* Canonnier: `290 chunks`
+* Second : `400 chunks`
+* Capitaine : `525 chunks`
+* Corsaire : `665 chunks`
+* Astralis : `2000 chunks` qui s'ajoutent à ceux du grade farmable
 {% endtab %}
 
 {% tab title="Niveau de la ville 📈" %}
@@ -91,6 +89,12 @@ Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limi
 
 {% endtab %}
 
+{% tab title="Exemple 🧮 " %}
+Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter les chunks support) peut déjà obtenir jusqu’à :
+
+> 1000 chunks (grade Astralis) +4150 chunks × 2 (niveau Empire × 2 villes) = **9300 chunks au total**, sans compter les chunks support apportés par les membres !
+{% endtab %}
+
 {% tab title="Chunks support 🫂" %}
 Chaque membre ajouté à votre ville apporte des chunks supplémentaires selon son grade :
 
@@ -105,13 +109,11 @@ Chaque membre ajouté à votre ville apporte des chunks supplémentaires selon s
   \
   \- <mark style="color:red;">`/ville trust "pseudo"`</mark> 😜&#x20;
 {% endtab %}
-
-{% tab title="Exemple 🧮 " %}
-Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter les chunks support) peut déjà obtenir jusqu’à :
-
-> 1000 chunks (grade Astralis) +4150 chunks × 2 (niveau Empire × 2 villes) = **9300 chunks au total**, sans compter les chunks support apportés par les membres !
-{% endtab %}
 {% endtabs %}
+
+| Nombre de membres 🧳​                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| <p>Selon votre grade, vous pouvez inviter dans votre ville plus de personnes, et rejoindre un plus grand nombre de villes :</p><ul><li>Naufragé : <code>5 villes</code></li><li>Moussaillon : <code>10 villes</code></li><li>Matelot : <code>15 villes</code></li><li>Canonnier: <code>20 villes</code></li><li>Second : <code>25 villes</code></li><li>Capitaine : <code>30 villes</code></li><li>Corsaire : <code>35 villes</code></li><li>Astralis : <code>+5 villes</code> qui s'ajoutent à ceux du grade farmable<br><br>- <mark style="color:red;"><code>/ville invites</code></mark> 🏃​</li></ul> |
 
 ## 🗺️ Zones
 
@@ -119,14 +121,14 @@ Les zones sont des "sous-claims", permettant de définir des règles spécifique
 
 {% tabs %}
 {% tab title="Zones & Grades ⚠️ " %}
-* Naufragé : `0 zone`
+* Naufragé : `2 zones`
 * Moussaillon : `5 zones`
 * Matelot : `10 zones`
 * Canonnier: `15 zones`
 * Second : `20 zones`
 * Capitaine : `25 zones`
 * Corsaire : `30 zones`
-* Astralis : `45 zones`&#x20;
+* Astralis : `+5 zones` qui s'ajoutent au grade farmable
 
 \
 Avec le système de **zones**, vous pouvez définir des **règles localisées** : un rôle peut être autorisé à ouvrir les portes dans une zone, mais pas dans une autre. Ça c'est de la technologie !😎
@@ -178,7 +180,7 @@ Cette catégorie concerne toutes les options de gestion pouvant être activées/
 
 Et bien plus à découvrir en jeu.
 
-&#x20;   ⚠️  Comme vous pouvez le voir, il s'agit d'options donnant accès à des paramètres <mark style="color:red;background-color:red;">**importants**</mark> pour la gestion de votre ville. C'est avec une grande vigilance qu'il faut les activer et les donner à vos membres. ⚠️
+&#x20;   ⚠️  Comme vous pouvez le voir, il s'agit d'options donnant accès à des paramètres <mark style="color:red;">**importants**</mark> pour la gestion de votre ville. C'est avec une grande vigilance qu'il faut les activer et les donner à vos membres. ⚠️
 {% endtab %}
 {% endtabs %}
 
