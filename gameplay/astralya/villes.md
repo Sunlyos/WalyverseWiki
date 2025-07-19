@@ -12,7 +12,7 @@ Les villes permettent de protéger vos bases et constructions, et de créer vos 
 
 ## 🧐 Commandes principales des villes
 
-* <mark style="color:green;">Création de la ville</mark> 🏘️&#x20;
+* <mark style="color:green;">Création de la ville</mark> 🏢 &#x20;
 
 Naufragé, Moussaillon, Matelot : 1 Ville.\
 Canonnier, Second, Capitaine, Corsaire : 2 Villes. (<mark style="color:red;">`/grades`</mark>)
@@ -116,34 +116,71 @@ Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans 
 
 ## 🗺️ Zones
 
-Les zones sont des "sous-claims", permettant de définir des règles spécifiques dans une partie d'un claim.&#x20;
+Les zones sont des "sous-claims", permettant de définir des règles spécifiques dans une partie d'un claim. Le nombre de zones disponibles dépend du grade du joueur :&#x20;
 
-<details>
-
-<summary><mark style="color:green;">Le nombre de zones disponibles dépend du grade du joueur :</mark> </summary>
-
+{% tabs %}
+{% tab title="Zones & Grades ⚠️ " %}
 * Naufragé : `0 zone`
-
-- Moussaillon : `5 zones`
-
+* Moussaillon : `5 zones`
 * Matelot : `10 zones`
-
-- Canonnier: `15 zones`
-
+* Canonnier: `15 zones`
 * Second : `20 zones`
-
-- Capitaine : `25 zones`
-
+* Capitaine : `25 zones`
 * Corsaire : `30 zones`
+* Astralis : `45 zones`&#x20;
 
-- Astralis : `45 zones` \
-
-
+\
 Avec le système de **zones**, vous pouvez définir des **règles localisées** : un rôle peut être autorisé à ouvrir les portes dans une zone, mais pas dans une autre. Ça c'est de la technologie !😎
+{% endtab %}
 
-</details>
+{% tab title="Une idée pour vous 💌 " %}
+Tu peux par exemple diviser ta ville en quartiers avec des fonctions différentes : résidentiel, commercial, industriel et bien plus encore. Cela dépend entièrement de ton imagination !&#x20;
+{% endtab %}
+{% endtabs %}
 
 ## 📜 Flags & Paramètres
 
-* 3 types de flags : naturels, gestion de mb, et j'sais plus quoi (action ?)
+* Les flags sont rangés en **3 catégories** :&#x20;
 
+{% tabs %}
+{% tab title="Paramètres naturels" %}
+Cette catégorie concerne tous les flags naturels pouvant être activés/désactivés, par exemple :
+
+* Apparition des animaux & des monstres & des phantoms. (_un pour chacun d'eux_)
+* Grief des entités. Fini les Creepers qui cassent toute ta super maison en terre !🙄
+* Propagation du feu.
+* Fonte de la neige.
+
+&#x20;Et bien plus à découvrir en jeu.\
+&#x20;&#x20;
+{% endtab %}
+
+{% tab title="Options d'actions" %}
+Cette catégorie concerne toutes les options d'actions pouvant être activées/désactivées, par exemple :
+
+* Casser/Poser des blocs. (_un pour chacun d'eux_)
+* Ouvrir les trappes/conteneurs/portes. (_un pour chacun d'eux_)
+* Récolter/Piétiner les cultures. (_un pour chacun d'eux_)
+* Attaques les animaux/monstres. (_un pour chacun d'eux_)
+* Utiliser des élytres/perle de l'end. (_un pour chacun d'eux_)
+
+Et bien plus à découvrir en jeu.
+{% endtab %}
+
+{% tab title="Options de gestion" %}
+Cette catégorie concerne toutes les options de gestion pouvant être activées/désactivées, par exemple :
+
+* Approuver/Expulser un membre. (_un pour chacun d'eux_)
+* Définir les rôles.
+* Modifier les paramètres des rôles.
+* Claim et Unclaim des chunks.
+* Modifier les taxes.
+* Retirer de l'argent de la banque de ville.
+
+Et bien plus à découvrir en jeu.
+
+&#x20;   ⚠️  Comme vous pouvez le voir, il s'agit d'options donnant accès à des paramètres <mark style="color:red;background-color:red;">**importants**</mark> pour la gestion de votre ville. C'est avec une grande vigilance qu'il faut les activer et les donner à vos membres. ⚠️
+{% endtab %}
+{% endtabs %}
+
+:bulb: Et surtout : **chaque flag est lié aux rôles de ville**. Vous pouvez décider qui peut faire quoi, **selon son rôle** dans votre ville ou la zone. Plus besoin d'un seul flag global qui s'applique à tout le monde, vous y compris.
