@@ -1,7 +1,3 @@
----
-hidden: true
----
-
 # 🟡 Pièces d'or
 
 <details>
