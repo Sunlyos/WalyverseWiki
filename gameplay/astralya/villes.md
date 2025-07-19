@@ -54,7 +54,6 @@ Canonnier, Second, Capitaine, Corsaire : 2 Villes. (<mark style="color:red;">`/g
 | <mark style="color:red;">`/ville balance`</mark>                    | Consulter le solde bancaire de la ville.           |
 | <mark style="color:red;">`/ville deposit/withdraw "montant"`</mark> | Déposer/Retirer de l'argent de la banque de ville. |
 | <mark style="color:red;">`/ville upkeep`</mark>                     | Voir le montant des impôts à payer pour ta ville.  |
-|                                                                     |                                                    |
 
 :bulb: Une nouvelle catégorie pour les villes a été ajoutée au /profil des joueurs ! Elle permet de voir combien de chunk(s) ont déjà été claim(s) par la ville sélectionnée dans le menu /villes, et le total de chunks pouvant être claims.
 
