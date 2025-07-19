@@ -92,7 +92,7 @@ Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limi
 {% tab title="Exemple 🧮 " %}
 Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter les chunks support) peut déjà obtenir jusqu’à :
 
-> 1000 chunks (grade Astralis) +4150 chunks × 2 (niveau Empire × 2 villes) = **9300 chunks au total**, sans compter les chunks support apportés par les membres !
+> 2000 chunks (grade Astralis) + 290 chunks (grade Canonnier) + 1500 chunks (Empire) × 2 villes = **7 580 chunks au total**, sans compter les chunks support apportés par les membres !
 {% endtab %}
 
 {% tab title="Chunks support 🫂" %}
