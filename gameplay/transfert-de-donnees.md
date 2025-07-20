@@ -34,6 +34,7 @@ Migration des données suivantes :
 * Inventaire, armure, /sac, enderchest, items dans /ah, villes.&#x20;
 * Warps (<mark style="color:red;">`/warps setowner set "NomDuWarp" "NouveauPseudo"`</mark>)&#x20;
 * Si tu fais partie d'une ville communautaire : Demander à ton Chef/Maire de te réinviter.&#x20;
+* Tu possèdes une ville ? Utilise <mark style="color:red;">`/ville setowner "pseudo"`</mark> en ayant sélectionné la <mark style="color:red;">`/ville`</mark> pour la transférer à ton nouveau compte.&#x20;
 
 ⚠️ Une fois cette étape finie, il faut impérativement prévenir le staff dans le ticket afin qu'il puisse le transmettre aux admins ⚠️ \
 &#x20;
