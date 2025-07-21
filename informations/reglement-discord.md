@@ -32,7 +32,7 @@ L'administration s'engage à garantir une expérience de jeu optimale pour tous 
 
 * Les [Règles du chat](https://wiki.walyverse.fr/informations/reglement-en-jeu#regles-du-chat) et de bienséance en jeu s'appliquent aussi sur nos serveurs Discord.
 
-- Il est interdit de **mentionner** un membre de [#id-1.-ladministration](../divers/grades-staff-a-terminer.md#id-1.-ladministration "mention") ou [#id-2.-le-haut-staff](../divers/grades-staff-a-terminer.md#id-2.-le-haut-staff "mention") inutilement ou sans autorisation de leur part.
+- Il est interdit de **mentionner** un membre de [l'Administration ](https://wiki.walyverse.fr/divers/grades-staff#id-1.-ladministration)ou de la [Modération ](https://app.gitbook.com/o/AWWdSV4JBhgmelpb9O1I/s/m6I3QrxKZpdLfx3VRl2L/~/changes/228/divers/grades-staff#id-2.-equipe-moderation)inutilement ou sans autorisation de leur part.
 
 * Il est obligatoire de passer par le support si vous avez besoin d'aide.
   * _<mark style="color:green;">Si un membre du staff ne vous répond pas en message privé, c'est son droit.</mark>_
