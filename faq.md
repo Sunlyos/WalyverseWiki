@@ -8,13 +8,13 @@
 
 Pour information, nous acceptons les versions crackées, premiums, et bedrocks.
 
-### <mark style="color:green;">ASTRALYA (Survie)</mark>
+#### <mark style="color:green;">ASTRALYA (Survie)</mark>
 
 * Version : 1.21.4
 * IP : play.astralya.fr
 * Port bedrock : `19132`
 
-### <mark style="color:green;">SWAYNIGHT (Oneblock)</mark>
+#### <mark style="color:green;">SWAYNIGHT (Oneblock)</mark>
 
 * Version : 1.21.4
 * IP : play.swaynight.fr
