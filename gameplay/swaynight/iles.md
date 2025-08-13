@@ -37,20 +37,13 @@ Pour créer votre île, utilisez la commande <mark style="color:red;">`/ob creat
 
 <summary>⚙️ <mark style="color:green;">Paramétrer mon île</mark></summary>
 
-Pour gérer votre île, tapez la commande <mark style="color:red;">`/ob settings`</mark>. Le menu suivant s'ouvrira :\
-![](<../../.gitbook/assets/image (45).png>)
+Pour gérer vos paramètres d'île, tapez la commande <mark style="color:red;">`/ob settings`</mark>. Le menu suivant s'ouvrira :
 
+<div align="left"><figure><img src="../../.gitbook/assets/image (71).png" alt=""><figcaption></figcaption></figure></div>
 
+Pour gérer vos permissions d'île, tapez la commande <mark style="color:red;">`/ob permissions`</mark>. Le menu suivant s'ouvrira :
 
-* <mark style="color:yellow;">Bouclier</mark> **:** Accédez aux paramètres de protection pour gérer les permissions de l'île.
-* <mark style="color:yellow;">Comparateur</mark> **:** Modifiez les paramètres généraux, comme l'apparition de monstres ou d'animaux.
-* <mark style="color:yellow;">Établi</mark> **:** Déterminez qui peut changer les paramètres de votre île.
-* <mark style="color:yellow;">Crochet</mark> **:** Choisissez qui peut entrer sur votre île.
-* <mark style="color:yellow;">Brique de Nether</mark> **:** Filtrez les paramètres à afficher.
-  * <mark style="color:orange;">Lingot de fer</mark> **:** Paramètres les plus utiles.
-  * <mark style="color:orange;">Lingot d'or</mark> **:** Paramètres avancés.
-  * <mark style="color:orange;">Brique de Nether</mark> **:** Tous les paramètres.
-* <mark style="color:yellow;">Le bloc de TNT</mark> : Réinitialise tous vos paramètres.
+<div align="left"><figure><img src="../../.gitbook/assets/image (72).png" alt=""><figcaption></figcaption></figure></div>
 
 </details>
 
@@ -58,41 +51,19 @@ Pour gérer votre île, tapez la commande <mark style="color:red;">`/ob settings
 
 <summary>🚹 <mark style="color:green;">Inviter un joueur sur mon île</mark></summary>
 
-Pour inviter un joueur à rejoindre votre île, utilisez la commande <mark style="color:red;">`/ob team invite "pseudo"`</mark>. Votre ami devra ensuite taper **deux fois** la commande <mark style="color:red;">`/ob team accept`</mark> (avec un délai de 10 secondes entre chaque).
+Pour inviter un joueur à rejoindre votre île, utilisez la commande <mark style="color:red;">`/ob invite "pseudo"`</mark>. Votre ami devra ensuite taper **deux fois** la commande <mark style="color:red;">`/ob accept`</mark> (avec un délai de 10 secondes entre chaque).
 
 
 
 #### Les grades d'île disponibles sont les suivants :
 
-<img src="../../.gitbook/assets/image (47).png" alt="" data-size="original">
+<div align="left"><figure><img src="../../.gitbook/assets/image (73).png" alt=""><figcaption></figcaption></figure></div>
+
+Pour promouvoir un membre de votre île, utilisez la commande <mark style="color:red;">`/ob promote "pseudo"`</mark>. Pour rétrograder un joueur, tapez <mark style="color:red;">`/ob demote "pseudo"`</mark>.
 
 
 
-Pour promouvoir un membre de votre île, utilisez la commande <mark style="color:red;">`/ob team promote "pseudo"`</mark>. Pour rétrograder un joueur, tapez <mark style="color:red;">`/ob team demote "pseudo"`</mark>.
-
-
-
-:bulb: Le grade "<mark style="color:blue;">**Trust**</mark>" permet à un joueur de conserver les permissions données par le propriétaire même lorsque celui-ci est déconnecté. En revanche, le grade "<mark style="color:blue;">**Coop**</mark>" permet au joueur d'avoir des permissions uniquement lorsque le propriétaire de l'île est connecté.
-
-</details>
-
-<details>
-
-<summary>🎈<mark style="color:green;">Augmenter mon niveau d'île.</mark></summary>
-
-Les niveaux d'île sont l'une des principales sources du classement de **SwayNight**. Pour augmenter le niveau de votre île, posez des blocs de valeur. Vous pouvez connaître la valeur globale des blocs en tapant <mark style="color:red;">`/ob values`</mark>.
-
-![](<../../.gitbook/assets/image (48).png>)
-
-
-
-* <mark style="color:yellow;">Le papier</mark> : Trier par nom.
-* <mark style="color:yellow;">La carte</mark> : Rechercher une valeur spécifique.
-* <mark style="color:yellow;">Le diamant</mark> : Trier par ordre croissant ou décroissant.
-
-
-
-:bulb: Pour mettre à jour le niveau de votre île, utilisez la commande <mark style="color:red;">`/ob level`</mark>.
+:bulb: Le grade "<mark style="color:blue;">**Coop**</mark>" permet au joueur d'avoir des permissions uniquement lorsque le propriétaire de l'île est connecté. Cependant vous pouvez attribuer des permissions spécifiques à un joueur en tapant la commande <mark style="color:red;">`/ob permissions "pseudo"`</mark>.
 
 </details>
 
@@ -100,20 +71,8 @@ Les niveaux d'île sont l'une des principales sources du classement de **SwayNig
 
 <summary>💪🏻 <mark style="color:green;">Améliorer mon île</mark></summary>
 
-Vous pouvez acheter des améliorations pour votre île en tapant la commande <mark style="color:red;">`/ob upgrades`</mark>.
+Vous pouvez acheter des améliorations pour votre île en tapant la commande <mark style="color:red;">`/ob upgrade`</mark>.![](<../../.gitbook/assets/image (75).png>)
 
-![](<../../.gitbook/assets/image (49).png>)
-
-
-
-* <mark style="color:yellow;">Livre</mark> **:** Débloquez de nouvelles commandes :&#x20;
-  * <mark style="color:red;">`/cheque "montant"`</mark> : Créez des chèques avec un papier en main.
-  * <mark style="color:red;">`/loom`</mark> : Ouvrir un métier à tisser.
-  * <mark style="color:red;">`/poubelle`</mark> : Permet de jeter vos items à la poubelle. ⚠️ <mark style="color:red;">**Aucun remboursement en cas d'erreur**</mark>
-  * <mark style="color:red;">`/pay all`</mark> : Envoyez de l'argent aux joueurs connectés.
-  * <mark style="color:red;">`[i]`</mark> : Montrez l'item dans votre main.
-  * <mark style="color:red;">`[inv]`</mark> : Montrez votre inventaire.
-  * <mark style="color:red;">`/stonecutter`</mark> : Ouvrir le tailleur de pierre.
 * <mark style="color:yellow;">Barrière</mark> **:** Augmentez la taille de votre île.
 * <mark style="color:yellow;">Bloc d'herbe</mark> **:** Changez la phase de votre île.
 * <mark style="color:yellow;">Émeraude</mark> **:** Augmentez la limite d'entonnoirs sur votre île.
@@ -121,12 +80,7 @@ Vous pouvez acheter des améliorations pour votre île en tapant la commande <ma
   * Générateur Normal
   * Générateur Naturel
   * Générateur à Minerais
-  * Générateur du Nether
-
-\
-\
-:bulb: Pour désactiver votre générateur, tapez <mark style="color:red;">`/ob settings`</mark>, puis cliquez sur le comparateur et ensuite sur la pioche en diamant.\
-![](<../../.gitbook/assets/image (54).png>)\
+  * Générateur du Nether\
 
 
 </details>
@@ -165,7 +119,9 @@ Il existe également d'autres **restrictions**, celle des **tiles**, limitées �
 
 Ici, vous trouverez une liste de **tous** les **blocs présents** au sein du <mark style="color:red;">`/ob phases`</mark>.&#x20;
 
-<img src="../../.gitbook/assets/Capture d&#x27;écran 2025-02-23 095736.png" alt="" data-size="original">
+<img src="../../.gitbook/assets/Capture d&#x27;écran 2025-02-23 095736.png" alt="" data-size="original">&#x20;
+
+SCREEN A CHANGER LORSQUE LE MENU SERA RÉPARÉ
 
 
 
