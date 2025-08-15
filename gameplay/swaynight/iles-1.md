@@ -10,7 +10,7 @@ hidden: true
 
 ## <mark style="color:yellow;">Classement saisonnier</mark>
 
-Tous les 15 jours, un item est désigné. Farm-le et dépose-le pour faire grimper ton île dans le classement saisonnier !
+Tous les 15 jours, un item est désigné. Farmez-le et déposez-le pour faire grimper votre île dans le classement saisonnier !
 
 Pour accéder au menu du classement saisonnier et ainsi déposer l'item désigné, vous tapez <mark style="color:red;">`/ob points`</mark>.
 
@@ -20,23 +20,22 @@ Pour accéder au menu du classement saisonnier et ainsi déposer l'item désign�
 
 ## <mark style="color:yellow;">Les différentes saisons</mark>
 
-Chaque saison aura une influence sur l’environnement de votre île et changera tous les 15 jours.
+Chaque saison aura une influence sur l’environnement de votre île et changera tous les 15 jours. <img src="../../.gitbook/assets/ezgif-1bc0132b81def8.gif" alt="" data-size="original">
 
 <details>
 
 <summary>🌸 <mark style="color:green;">Printemps</mark></summary>
 
 * Les feuilles des forêts deviendront roses et l’eau aura une légère teinte bleu clair.
-* La fleur de cerisier tombe des feuilles
+* La fleur de cerisier tombe des feuilles.
 
 - Le ciel est de couleur bleu clair.
 - Les fleurs peuvent être trouvées partout.
 - La neige et la glace générées en hiver seront enlevées.
 - Beaucoup de moutons, de vaches, de cochons, de lapins et de poulets produiront, chacun avec 3 à 5 bébés.
-- [Les lucioles](https://wiki.realisticseasons.com/seasons/particles#fireflies) apparaîtront la nuit. (→ à vérifier)
-- Augmentation du taux d’apparition des abeilles.
-- [Température ](https://wiki.realisticseasons.com/temperature/modifiers)moyenne de 5°C-23°C, selon le biome.
-- La durée du jour et de la nuit est généralement égale.
+
+* Augmentation du taux d’apparition des abeilles.
+* Température moyenne de 5°C-23°C, selon le biome.
 
 </details>
 
@@ -44,25 +43,21 @@ Chaque saison aura une influence sur l’environnement de votre île et changera
 
 <summary>☀️ <mark style="color:green;">Été</mark></summary>
 
-
-
 * Dans la plupart des biomes, les arbres et l’herbe ont une couleur verte vibrante semblable aux feuilles de la jungle.
 * Le biome Taïga aura la couleur de l’herbe des plaines.
 * La neige et la glace générées en hiver seront enlevées.
 
-- Les biomes chauds (désert, savane) semblent un peu secs
+- Les biomes chauds (désert, savane) semblent un peu secs.
 - La couleur de l’eau et du ciel est bleu clair.
-- [Étoiles filantes](https://wiki.realisticseasons.com/seasons/particles#shooting-stars) peuvent être vues la nuit. (→ à vérifier)
-- [Lucioles](https://wiki.realisticseasons.com/seasons/particles#fireflies) apparaîtront la nuit. (→ à vérifier)
-- Les fleurs placées au printemps sont enlevées.
-- [Feuilles ](https://wiki.realisticseasons.com/seasons/particles#falling-leaves)tombent des arbres.
-- Des touffes de baies apparaissent partout.
-- La pluie est très rare.
-- Les animaux qui apparaissent normalement dans la jungle peuvent désormais apparaître partout.
-- Les cultures et plantes pousseront deux fois plus vite si rien ne se trouve au-dessus d’elles.
-- Les journées seront longues (environ 13 min) et les nuits seront courtes (7 min). (à vérifier)
-- Des carcasses apparaîtront à la place des zombies
-- La [température ](https://wiki.realisticseasons.com/temperature/modifiers)moyenne sera comprise entre 25°C et 40°C, selon le biome.
+
+* Les fleurs placées au printemps sont enlevées.
+* Feuilles tombent des arbres.
+* Des touffes de baies apparaissent partout.
+* La pluie est très rare.
+* Les animaux qui apparaissent normalement dans la jungle peuvent désormais apparaître partout.
+* Les cultures et plantes pousseront deux fois plus vite si rien ne se trouve au-dessus d’elles.
+
+- La température moyenne sera comprise entre 25°C et 40°C, selon le biome, ce qui peut vous faire transpirer (particules d'eau).
 
 </details>
 
@@ -96,14 +91,16 @@ Chaque saison aura une influence sur l’environnement de votre île et changera
 * Les feuilles et l’herbe ont une teinte gris clair.
 * Le ciel est un peu plus blanc.
 * L’eau est bleu foncé.
-* Tous les blocs d’eau exposés, sans rien au-dessus, finiront par geler avec le temps.
-* Il neige au lieu de pleuvoir. La texture de neige réelle de Minecraft vanilla est utilisée. La neige sera de nouveau enlevée à la saison suivante.
-* Les nuits seront longues (environ 13 min) et les journées seront courtes (environ 7 min).&#x20;
-* Loups, renards blancs, ours polaires et bonhommes de neige (sans citrouille) se trouvent partout.
-* Des animaux errants apparaîtront à la place des squelettes.
-* Il y a 20 % de chances chaque nuit que le ciel soit rempli étincelles blanches. (à vérifier)
+* Tous les blocs d’eau exposés, sans rien au-dessus, finiront par geler avec le temps.\
+  ![](../../.gitbook/assets/image.gif)
+
+- Il neige au lieu de pleuvoir. La texture de neige réelle de Minecraft vanilla est utilisée. La neige sera de nouveau enlevée à la saison suivante.
+- Les nuits seront longues (environ 13 min) et les journées seront courtes (environ 7 min).&#x20;
+- Loups, renards blancs, ours polaires et bonhommes de neige (sans citrouille) se trouvent partout.
+- Des animaux errants apparaîtront à la place des squelettes.
+
 * Les cultures et plantes ne pousseront que si un bloc se trouve au-dessus d’elles.
-* La température moyenne sera comprise entre -10°C et 5°C, selon le biome.
-* Les joueurs devront se protéger contre les températures froides. (à vérifier)
+* La température moyenne sera comprise entre -10°C et 5°C, selon le biome ce qui donne la sensation de froid et fera souffler de la brume.
 
 </details>
+
