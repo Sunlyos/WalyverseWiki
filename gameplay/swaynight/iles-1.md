@@ -3,7 +3,6 @@ description: >-
   Les saisons sont un système qui change le gameplay et l’environnement de votre
   île. Avec elles, un classement saisonnier permet également de suivre les
   performances des joueurs à chaque saison.
-hidden: true
 ---
 
 # ☀️ Saisons
