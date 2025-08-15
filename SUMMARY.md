@@ -22,7 +22,7 @@
   * [⚜️ Guildes](gameplay/astralya/guildes.md)
 * [🐝 SwayNight](gameplay/swaynight/README.md)
   * [🏝️ Îles](gameplay/swaynight/iles.md)
-  * [☀️ Saisons](gameplay/swaynight/iles-1.md)
+  * [☀️ Saisons](gameplay/swaynight/saisons.md)
   * [👾 Mithrils](gameplay/swaynight/mithrils.md)
   * [🎣 La pêche - A FAIRE](gameplay/swaynight/la-peche-a-faire.md)
 * [🖥️ Commandes générales](gameplay/commandes-generales.md)

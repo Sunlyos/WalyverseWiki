@@ -102,4 +102,3 @@ Chaque saison aura une influence sur l’environnement de votre île et changera
 * La température moyenne sera comprise entre -10°C et 5°C, selon le biome ce qui donne la sensation de froid et fera souffler de la brume.
 
 </details>
-
