@@ -109,7 +109,7 @@ Vous pouvez accéder aux limites de votre île avec la commande <mark style="col
 
 _Par exemple ; vous ne pouvez placer plus de 150 enclumes sur votre île._
 
-Il existe également d'autres **restrictions**, celle des **tiles**, limitées à 256/chunk et qui concerne tous les coffres/spawners/shulkers/tonneaux/cadres/armorstands, celle des **entités,** limitées à 16/chunk (mobs passifs et agressifs) et celle des villageois, qui sont limités à 5 par chunk.
+Il existe également d'autres **restrictions**, celle des **tiles**, limitées à 256/chunk et qui concerne tous les coffres/spawners/shulkers/tonneaux/cadres/armorstands, celle des **entités,** limitées à 16/chunk (mobs passifs et agressifs) et celle des villageois, qui sont limités à 10 par chunk.
 
 </details>
 
