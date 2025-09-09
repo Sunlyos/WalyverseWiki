@@ -112,3 +112,16 @@ Rendez-vous dans vos options graphiques, et mettez la **taille de l’interface*
 ![](<.gitbook/assets/image (21).png>)
 
 </details>
+
+<details>
+
+<summary>Que se passe-t-il si je ne me connecte plus ? </summary>
+
+Pour une survie infinie et des classements compétitifs, les comptes inactifs depuis 90 jours sont supprimés ! La majeure partie des données sont réinitialisées à l'exception du contenu de vos coffres dans vos villes ainsi que vos achats boutique (grades, commandes, améliorations).\
+\
+🚨 Attention : au bout d'un certain temps d'inactivité, vos villes peuvent arriver à expiration, vos coffres ne seront donc plus protégés, sauf ceux avec pancarte. \
+\
+&#x20;
+
+</details>
+
