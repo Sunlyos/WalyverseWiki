@@ -31,7 +31,7 @@ Canonnier, Second, Capitaine, Corsaire : 2 Villes. (<mark style="color:red;">`/g
 | Commande                                                               | Description                                                                                    |
 | ---------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------- |
 | <mark style="color:red;">`/ville trust/untrust "pseudo"`</mark>        | Ajouter/Retirer un joueur à/de la ville.                                                       |
-| <mark style="color:red;">`/ville untrust pseudo *`</mark>              | Retire un joueur de la ville et toutes les zones.                                              |
+| <mark style="color:red;">`/ville untrust pseudo *`</mark>              | Retire un joueur de la ville ainsi que de toutes les zones.                                    |
 | <mark style="color:red;">`/ville ban/unban "pseudo"`</mark>            | Bannir/Dé-bannir un joueur de la ville ou zone.                                                |
 | <mark style="color:red;">`/ville chat "NomDeLaVille "message"`</mark>  | Envoyer un message dans le tchat de ville.                                                     |
 | <mark style="color:red;">`/vc "message"`</mark>                        | En sélectionnant la /ville dans le menu, tu peux écrire directement dans le tchat de celle ci. |
