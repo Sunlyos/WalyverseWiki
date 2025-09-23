@@ -7,8 +7,6 @@ hidden: true
 
 # 📍 Lieux importants
 
-
-
 <details>
 
 <summary>🏝️ <mark style="color:green;">Là où tout commence : Le spawn !</mark> </summary>
@@ -75,3 +73,53 @@ Pour le faire spawn, il te faudra juste parler à <mark style="color:purple;">No
 Une fois le dragon tué, le joueur l'ayant fait spawn récupère un fragment. Au bout de deux fragments, il est possible d'acheter une clé ouvrant la caisse Draconique !&#x20;
 
 </details>
+
+## ✨<mark style="color:yellow;">Commandes de téléportation</mark>&#x20;
+
+{% tabs %}
+{% tab title="🏝️ Mondes" %}
+| Commande                                        | Description                           |
+| ----------------------------------------------- | ------------------------------------- |
+| <mark style="color:red;">`/spawn`</mark>        | Téléportation au spawn.               |
+| <mark style="color:red;">`/rtp`</mark>          | Accéder aux différents mondes.        |
+| <mark style="color:red;">`/tpa "pseudo"`</mark> | Se téléporter à un joueur.            |
+| <mark style="color:red;">`/dback`</mark>        | Téléportation à son lieu de mort.     |
+| <mark style="color:red;">`/back`</mark>         | Téléportation à sa dernière position. |
+{% endtab %}
+
+{% tab title="🪺 Homes&Warps " %}
+## &#x20;**🏠** <mark style="color:yellow;">Homes</mark>
+
+| Commande                                              | Description                                   |
+| ----------------------------------------------------- | --------------------------------------------- |
+| <mark style="color:red;">`/ville spawn "nom"`</mark>  | Accéder à une ville.                          |
+| <mark style="color:red;">`/vs`</mark>                 | Accéder à la ville sélectionnée dans /villes. |
+| <mark style="color:red;">`/sethome "nom"`</mark>      | Créer un home.                                |
+| <mark style="color:red;">`/home "nom"`</mark>         | Se téléporter à un home.                      |
+| <mark style="color:red;">`/delhome "nom"`</mark>      | Supprimer un home.                            |
+
+## **🗺️** <mark style="color:yellow;">Warps</mark>&#x20;
+
+| Commande                                             | Description                  |
+| ---------------------------------------------------- | ---------------------------- |
+| <mark style="color:red;">`/warp "nom"`</mark>        | Se téléporter à un warp.     |
+| <mark style="color:red;">`/warp set "nom"`</mark>    | Créer un warp.               |
+| <mark style="color:red;">`/warp remove "nom"`</mark> | Supprimer un warp.           |
+| <mark style="color:red;">`/warp reset "nom"`</mark>  | Re-localiser le warp.        |
+| <mark style="color:red;">`/warp help`</mark>         | Voir le reste des commandes. |
+
+💡 Plus d'infos [ici](https://wiki.walyverse.fr/gameplay/homes-and-warps).
+{% endtab %}
+
+{% tab title="📌 Utilitaires " %}
+| Commande                                   | Description                     |
+| ------------------------------------------ | ------------------------------- |
+| <mark style="color:red;">`/caisses`</mark> | Téléportation aux caisses.      |
+| <mark style="color:red;">`/afk`</mark>     | Téléportation à la zone AFK.    |
+| <mark style="color:red;">`/tickets`</mark> | Téléportation aux coffrets.     |
+| <mark style="color:red;">`/pinata`</mark>  | Téléportation à la zone Piñata. |
+| <mark style="color:red;">`/casino`</mark>  | Téléportation à la zone casino. |
+| <mark style="color:red;">`/draco`</mark>   | Téléportation à la zone Draco.  |
+| <mark style="color:red;">`/pvp`</mark>     | Téléportation à l'arène PvP.    |
+{% endtab %}
+{% endtabs %}
