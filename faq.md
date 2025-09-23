@@ -89,7 +89,7 @@ Si vous ne possédez pas le grade, n'hésitez pas à demander l'aide d'autres jo
 
 <summary>Y'a t-il un reset des mondes ?</summary>
 
-Seuls les mondes ressources sont réinitialisés environ tous les **2 mois.** Le jour du reset, une annonce est publiée sur Discord pour prévenir. La redstone y est désactivée et il est déconseillé de s'y installer.
+Seuls les mondes ressources sont réinitialisés environ tous les **2 mois.** Le jour du reset, une annonce est publiée sur Discord pour prévenir. La redstone y est désactivée (excepté la TNT et les entonnoirs) et il est déconseillé de s'y installer.
 
 ⚠️ Lors d'un reset, l'usage des **elytres** dans l'Ender est bloqué pendant les **48 premières heures.**
 

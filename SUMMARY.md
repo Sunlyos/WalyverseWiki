@@ -17,6 +17,7 @@
   * [🏆 Grades](gameplay/astralya/grades.md)
   * [🟡 Pièces d'or](gameplay/astralya/pieces-dor.md)
   * [📘 Enchantements personnalisés](gameplay/astralya/enchantements-personnalises.md)
+  * [📍 Lieux importants](gameplay/astralya/lieux-importants.md)
   * [👩‍❤️‍👨 Mariages](gameplay/astralya/mariages.md)
   * [🏠 Claims](gameplay/astralya/claims.md)
   * [⚜️ Guildes](gameplay/astralya/guildes.md)
