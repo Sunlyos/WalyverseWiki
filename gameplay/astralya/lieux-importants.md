@@ -13,7 +13,7 @@ hidden: true
 
 <summary>🏝️ <mark style="color:green;">Là où tout commence : Le spawn !</mark> </summary>
 
-Véritable **coeur du serveur**, le spawn est l'endroit où tout commence et où tout converge. Que tu sois nouveau joueur ou vétéran, c'est ici que tu trouveras les lieux les plus importants pour ton aventure.
+Véritable **cœur du serveur**, le spawn est l'endroit où tout commence et où tout converge. Que tu sois nouveau joueur ou vétéran, c'est ici que tu trouveras les lieux les plus importants pour ton aventure.
 
 Zones clés :
 
@@ -42,5 +42,20 @@ Ici, le temps travaille pour toi : chaque minute passée dans la zone <mark styl
 Échange-les au <mark style="color:red;">`/afkshop`</mark> contre des récompenses utiles : articles boutique, fly temporaire, tickets, oeufs... et bien plus.
 
 Tu n'es pas obligé d'y être AFK : explore la map, découvre ses recoins ou teste tes talents en jump.&#x20;
+
+</details>
+
+<details>
+
+<summary>⚔️ <mark style="color:green;">Une envie de match à mort ? L'arène PvP !</mark></summary>
+
+Bien que le PvP ne soit **absolument pas** au cœur du serveur, une arène <mark style="color:red;">`/pvp`</mark> est disponible pour ceux qui le souhaitent.
+
+&#x20;**Informations**&#x20;
+
+* Version PvP : **1.8**
+* Alliances : **Interdites** & **Sanctionnables**&#x20;
+* Déconnexion en combat : **Interdit -> Inv. effacé**
+* Aucun remboursement de stuff en cas de perte.
 
 </details>
