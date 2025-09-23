@@ -61,7 +61,7 @@ Obtenu dès l'arrivée sur le serveur, trop classe ! 😎
 
 <figure><img src="../../.gitbook/assets/image (65).png" alt="" width="276"><figcaption></figcaption></figure>
 
-<p align="center">🐲 La commande <mark style="color:red;"><code>/draco</code></mark> te donne le pouvoir de faire spawn le dragon, nommé Draco, dans la dimension de l'End, avec 4 cristaux de l'End ainsi que 10 000$ en parlant à <mark style="color:purple;">Norium</mark>. Une fois le dragon tué, le joueur l'ayant fait spawn récupère un fragment, au bout de deux fragments, il est possible d'acheter une clé ouvrant la caisse Draconique ! </p>
+<p align="center">🐲 La commande <mark style="color:red;"><code>/draco</code></mark> te donne le pouvoir de faire spawn le dragon, nommé Draco, dans la dimension de l'End, avec 4 cristaux de l'End ainsi que 10 000$ en parlant à <mark style="color:purple;">Norium</mark>. Une fois le dragon tué, le joueur l'ayant fait spawn récupère un fragment. Au bout de deux fragments, il est possible d'acheter une clé ouvrant la caisse Draconique ! </p>
 
 </details>
 

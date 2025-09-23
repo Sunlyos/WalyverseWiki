@@ -62,8 +62,16 @@ Bien que le PvP ne soit **absolument pas** au cœur du serveur, une arène <mark
 
 <details>
 
-<summary>Affronter le dragon ? C'est possible au /draco ! </summary>
+<summary>🐲 <mark style="color:green;">Affronter le dragon une nouvelle fois ? C'est possible !</mark> </summary>
 
+La commande <mark style="color:red;">`/draco`</mark> te téléporte dans une super dimension et te donne le pouvoir de faire spawn le dragon, nommé Draco.\
+\
+Pour le faire spawn, il te faudra juste parler à <mark style="color:purple;">Norium</mark> en ayant :
 
+* [Grade](https://wiki.walyverse.fr/gameplay/astralya/grades) <mark style="color:green;">Matelot</mark>&#x20;
+* 4 Cristaux de l'End
+* 10 000$&#x20;
+
+Une fois le dragon tué, le joueur l'ayant fait spawn récupère un fragment. Au bout de deux fragments, il est possible d'acheter une clé ouvrant la caisse Draconique !&#x20;
 
 </details>
