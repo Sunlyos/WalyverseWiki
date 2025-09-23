@@ -59,3 +59,11 @@ Bien que le PvP ne soit **absolument pas** au cœur du serveur, une arène <mark
 * Aucun remboursement de stuff en cas de perte.
 
 </details>
+
+<details>
+
+<summary>Affronter le dragon ? C'est possible au /draco ! </summary>
+
+
+
+</details>
