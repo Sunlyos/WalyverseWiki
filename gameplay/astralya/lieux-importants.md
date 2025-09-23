@@ -2,7 +2,6 @@
 description: >-
   Pour encore plus de fun, plusieurs endroits sont mis à ta disposition sur
   Astralya ! Je te laisse les découvrir ci-dessous.
-hidden: true
 ---
 
 # 📍 Lieux importants
