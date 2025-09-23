@@ -33,3 +33,14 @@ Zones clés :
 <sup><sub>2 : Il est nécessaire d'avoir une heure de jeu pour pouvoir jouer au casino.<sub></sup>
 
 </details>
+
+<details>
+
+<summary>💤 <mark style="color:green;">Là où tout repos est permis : La zone AFK !</mark> </summary>
+
+Ici, le temps travaille pour toi : chaque minute passée dans la zone <mark style="color:red;">`/afk`</mark> te rapporte **+1 jeton AFK** et ce, jusqu'à **50 000 !** \
+Échange-les au <mark style="color:red;">`/afkshop`</mark> contre des récompenses utiles : articles boutique, fly temporaire, tickets, oeufs... et bien plus.
+
+Tu n'es pas obligé d'y être AFK : explore la map, découvre ses recoins ou teste tes talents en jump.&#x20;
+
+</details>
