@@ -93,6 +93,8 @@ Seuls les mondes ressources sont réinitialisés environ tous les **2 mois.** Le
 
 ⚠️ Lors d'un reset, l'usage des **elytres** dans l'Ender est bloqué pendant les **48 premières heures.**
 
+⚠️ Attention lorsque vous vous téléportez à vos <mark style="color:red;">`/home`</mark> après une nouvelle génération de monde.&#x20;
+
 </details>
 
 ## <mark style="color:yellow;">DIVERS</mark>
