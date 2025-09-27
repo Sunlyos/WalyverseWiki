@@ -59,7 +59,7 @@ Bien que le PvP ne soit **absolument pas** au cœur du serveur, une arène <mark
 
 <details>
 
-<summary>🛡️ <mark style="color:green;">Une envie de frisson en face-à-face ? Les duels !</mark></summary>
+<summary>⚔️ <mark style="color:green;">Une envie de frisson en face-à-face ? Les duels !</mark></summary>
 
 Trois décors, trois ambiances et pourtant tout autant de manières de mettre vos talents à l'épreuve ! J'ai nommé... Les duels !🔥\
 &#x20;    Trois terrains distincts : **Elyrion**, **Draemos** et **Karnak**.
@@ -69,7 +69,7 @@ Plusieurs kits pour pimenter tes combats sont à ta disposition dans ces arènes
 \
 Pour encore plus d'adrénaline, ajoute un enjeu à ton duel avec <mark style="color:red;">`/duel pseudo montant`</mark> !\
 \
-&#x20;           Que le ou la meilleur(e) gagne ! 💪\
+&#x20;                             Que le ou la meilleur(e) gagne ! 💪\
 \
 💡Tu peux même regarder ton pote se faire ratatiner avec <mark style="color:red;">`/spectate pseudo`</mark> !
 
