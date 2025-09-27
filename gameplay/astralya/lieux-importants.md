@@ -44,7 +44,7 @@ Tu n'es pas obligé d'y être AFK : explore la map, découvre ses recoins ou tes
 
 <details>
 
-<summary>⚔️ <mark style="color:green;">Une envie de match à mort ? L'arène PvP !</mark></summary>
+<summary>🛡️ <mark style="color:green;">Une envie de match à mort ? L'arène PvP !</mark></summary>
 
 Bien que le PvP ne soit **absolument pas** au cœur du serveur, une arène <mark style="color:red;">`/pvp`</mark> est disponible pour ceux qui le souhaitent.
 
@@ -54,6 +54,24 @@ Bien que le PvP ne soit **absolument pas** au cœur du serveur, une arène <mark
 * Alliances : **Interdites** & **Sanctionnables**&#x20;
 * Déconnexion en combat : **Interdit -> Inv. effacé**
 * Aucun remboursement de stuff en cas de perte.
+
+</details>
+
+<details>
+
+<summary>🛡️ <mark style="color:green;">Une envie de frisson en face-à-face ? Les duels !</mark></summary>
+
+Trois décors, trois ambiances et pourtant tout autant de manières de mettre vos talents à l'épreuve ! J'ai nommé... Les duels !🔥\
+&#x20;    Trois terrains distincts : **Elyrion**, **Draemos** et **Karnak**.
+
+Plusieurs kits pour pimenter tes combats sont à ta disposition dans ces arènes : <mark style="color:red;">`/duel pseudo`</mark>\
+<mark style="color:yellow;">Chevalier</mark>, <mark style="color:green;">Tank</mark>, <mark style="color:$info;">Fantôme</mark>, <mark style="color:purple;">Alchimiste</mark>, <mark style="color:$info;">Ninja</mark>, <mark style="color:blue;">Poséidon</mark>, <mark style="color:red;">Archer</mark>, <mark style="color:$success;">Robin des bois</mark> & <mark style="color:$info;">Wither</mark>. \
+\
+Pour encore plus d'adrénaline, ajoute un enjeu à ton duel avec <mark style="color:red;">`/duel pseudo montant`</mark> !\
+\
+&#x20;           Que le ou la meilleur(e) gagne ! 💪\
+\
+💡Tu peux même regarder ton pote se faire ratatiner avec <mark style="color:red;">`/spectate pseudo`</mark> !
 
 </details>
 
