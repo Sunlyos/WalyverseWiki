@@ -27,11 +27,12 @@
   * [👾 Mithrils](gameplay/swaynight/mithrils.md)
   * [🎣 La pêche - A FAIRE](gameplay/swaynight/la-peche-a-faire.md)
 * [🖥️ Commandes générales](gameplay/commandes-generales.md)
-* [🪐 Niveau Walyverse - A FAIRE](gameplay/niveau-walyverse-a-faire.md)
-* [↪️ Transfert de données](gameplay/transfert-de-donnees.md)
+* [🏡 Homes & Warps](gameplay/homes-and-warps.md)
 * [💰 Hôtel des ventes](gameplay/hotel-des-ventes.md)
 * [💶 Shops](gameplay/shops.md)
-* [🏡 Homes & Warps](gameplay/homes-and-warps.md)
+* [↪️ Transfert de données](gameplay/transfert-de-donnees.md)
+* [📌 Outils joueurs](gameplay/outils-joueurs.md)
+* [🪐 Niveau Walyverse - A FAIRE](gameplay/niveau-walyverse-a-faire.md)
 
 ## DIVERS
 
