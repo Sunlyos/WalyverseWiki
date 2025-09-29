@@ -30,8 +30,8 @@
 * [🏡 Homes & Warps](gameplay/homes-and-warps.md)
 * [💰 Hôtel des ventes](gameplay/hotel-des-ventes.md)
 * [💶 Shops](gameplay/shops.md)
-* [↪️ Transfert de données](gameplay/transfert-de-donnees.md)
 * [📌 Outils joueurs](gameplay/outils-joueurs.md)
+* [↪️ Transfert de données](gameplay/transfert-de-donnees.md)
 * [🪐 Niveau Walyverse - A FAIRE](gameplay/niveau-walyverse-a-faire.md)
 
 ## DIVERS

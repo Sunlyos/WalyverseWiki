@@ -2,7 +2,6 @@
 description: >-
   En tant que joueur, vous avez à disposition des avantages quotidiens ainsi que
   des outils qui améliorent votre confort de jeu !
-hidden: true
 ---
 
 # 📌 Outils joueurs
@@ -30,7 +29,7 @@ Ton confort fait aussi partie de nos priorités ! C'est pourquoi tu as des outil
 1. <mark style="color:red;">`/recherche sand`</mark>&#x20;
 2. 🟢 Acheter&#x20;
 3. Plusieurs shops s'offrent à toi, fais ton choix.
-4. Clique gauche sur la pancarte du shop et indique dans le chat combien tu en veux.
+4. Clic gauche sur la pancarte du shop et indique dans le chat combien tu en veux.
 
 <p align="center"><sup>Et voilà le tour est joué, tu as ton sable en moins de <strong>2 minutes</strong> ! (Il peut arriver qu'aucun shop n'existe pour l'objet que tu recherches)</sup></p>
 
