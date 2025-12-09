@@ -11,7 +11,7 @@ coverY: 0
 
 ## <mark style="color:green;">Walyverse, qu'est ce que c'est ?</mark> :thinking:
 
-Walyverse est un groupe de serveurs Minecraft. Notre but est, a toujours été, et continuera éternellement de vous proposer une **expérience de jeu durable dans le temps** et inoubliable à travers différents modes de jeu, comme la [Survie](broken-reference), le [Oneblock](broken-reference), ou encore le Créatif. Nos serveurs reçoivent très régulièrement des mises-à-jour et bénéficient des dernières versions du jeu.
+Walyverse est un groupe de serveurs Minecraft. Notre but est, a toujours été, et continuera éternellement de vous proposer une **expérience de jeu durable dans le temps** et inoubliable à travers différents modes de jeu, comme la [Survie](/broken/pages/w0gJAkAae7YPFmwfuBTT), le [Oneblock](/broken/pages/5lXVg60FncviP81D0jEw), ou encore le Créatif. Nos serveurs reçoivent très régulièrement des mises-à-jour et bénéficient des dernières versions du jeu.
 
 
 
