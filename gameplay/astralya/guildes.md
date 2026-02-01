@@ -20,8 +20,7 @@ Pour créer une guilde, utilisez <mark style="color:red;">`/g create "nom" "pré
 
 <img src="../../.gitbook/assets/image (14).png" alt="" data-size="original">
 
-_Attention, comme le stipule le_ [reglement-en-jeu.md](../../informations/reglement-en-jeu.md "mention")_, il est interdit d'utiliser un préfixe perturbant la lisibilité du chat. L'utilisation des codes « <mark style="color:red;">&0</mark> », « <mark style="color:red;">\&k</mark> », « <mark style="color:red;">\&m</mark> », « <mark style="color:red;">\&n</mark> » est donc <mark style="color:red;">interdite</mark>._\
-
+_Attention, comme le stipule le_ [reglement-en-jeu.md](../../informations/reglement-en-jeu.md "mention")_, il est interdit d'utiliser un préfixe perturbant la lisibilité du chat. L'utilisation des codes « <mark style="color:red;">&0</mark> », « <mark style="color:red;">\&k</mark> », « <mark style="color:red;">\&m</mark> », « <mark style="color:red;">\&n</mark> » est donc <mark style="color:red;">interdite</mark>._<br>
 
 
 

@@ -58,7 +58,7 @@ Canonnier, Second, Capitaine, Corsaire : 2 Villes. (<mark style="color:red;">`/g
 L'évolution du nombre de chunks pouvant être claim par le joueur augmente avec plusieurs facteurs : le grade du Maire, le niveau de la ville, le grade ainsi que les chunks support de membre.&#x20;
 
 {% tabs %}
-{% tab title="Maire de la ville 📌" %}
+{% tab title="📌 Maire de la ville" %}
 Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limite de chunks pouvant être claim. En effet :&#x20;
 
 * Naufragé : `50 chunks`
@@ -71,9 +71,8 @@ Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limi
 * Astralis : `2000 chunks` qui s'ajoutent à ceux du grade farmable
 {% endtab %}
 
-{% tab title="Niveau de la ville 📈" %}
-💡Consultez votre niveau avec <mark style="color:red;">`/ville level`</mark>.\
-
+{% tab title="📈 Niveau de la ville" %}
+💡Consultez votre niveau avec <mark style="color:red;">`/ville level`</mark>.<br>
 
 * Abri (Niveau par défaut) : `+0 chunk`
 * Campement : `+100 chunks`
@@ -83,17 +82,16 @@ Tout d'abord, dès la création de la ville, votre grade a un rôle dans la limi
 * Ordre : `+1000 chunks`
 * Empire : `+1500 chunks`\
   \
-  ✅ Ces bonus sont cumulables, donc une ville Empire a un total de 4150 chunks supplémentaires.\
-
+  ✅ Ces bonus sont cumulables, donc une ville Empire a un total de 4150 chunks supplémentaires.<br>
 {% endtab %}
 
-{% tab title="Exemple 🧮 " %}
+{% tab title="🧮 Exemple " %}
 Un joueur **Astralis & Canonnier** ayant **2 villes de niveau Empire** (et sans compter les chunks support) peut déjà obtenir jusqu’à :
 
 > 2000 chunks (grade Astralis) + 290 chunks (grade Canonnier) + 1500 chunks (Empire) × 2 villes = **7 580 chunks au total**, sans compter les chunks support apportés par les membres !
 {% endtab %}
 
-{% tab title="Chunks support 🫂" %}
+{% tab title="🫂 Chunks support" %}
 Chaque membre ajouté à votre ville apporte des chunks supplémentaires selon son grade :
 
 * Naufragé : `+0 chunk`
@@ -118,7 +116,7 @@ Chaque membre ajouté à votre ville apporte des chunks supplémentaires selon s
 Les zones sont des "sous-claims", permettant de définir des règles spécifiques dans une partie d'un claim. Le nombre de zones disponibles dépend du grade du joueur :&#x20;
 
 {% tabs %}
-{% tab title="Zones & Grades ⚠️ " %}
+{% tab title="⚠️ Zones & Grades " %}
 * Naufragé : `2 zones`
 * Moussaillon : `5 zones`
 * Matelot : `10 zones`
@@ -132,7 +130,7 @@ Les zones sont des "sous-claims", permettant de définir des règles spécifique
 Avec le système de **zones**, vous pouvez définir des **règles localisées** : un rôle peut être autorisé à ouvrir les portes dans une zone, mais pas dans une autre. Ça c'est de la technologie !😎
 {% endtab %}
 
-{% tab title="Une idée pour vous 💌 " %}
+{% tab title="💌 Une idée pour vous " %}
 Tu peux par exemple diviser ta ville en quartiers avec des fonctions différentes : résidentiel, commercial, industriel et bien plus encore. Cela dépend entièrement de ton imagination !&#x20;
 {% endtab %}
 {% endtabs %}
@@ -142,7 +140,7 @@ Tu peux par exemple diviser ta ville en quartiers avec des fonctions différente
 * Les flags sont rangés en **3 catégories** :&#x20;
 
 {% tabs %}
-{% tab title="Paramètres naturels ☘️" %}
+{% tab title="☘️Paramètres naturels" %}
 Cette catégorie concerne tous les flags naturels pouvant être activés/désactivés, par exemple :
 
 * Apparition des animaux & des monstres & des phantoms. (_un pour chacun d'eux_)
@@ -154,7 +152,7 @@ Cette catégorie concerne tous les flags naturels pouvant être activés/désact
 &#x20;&#x20;
 {% endtab %}
 
-{% tab title="Options d'actions ⚒️" %}
+{% tab title="⚒️ Options d'actions " %}
 Cette catégorie concerne toutes les options d'actions pouvant être activées/désactivées, par exemple :
 
 * Casser/Poser des blocs. (_un pour chacun d'eux_)
@@ -166,7 +164,7 @@ Cette catégorie concerne toutes les options d'actions pouvant être activées/d
 Et bien plus à découvrir en jeu.
 {% endtab %}
 
-{% tab title="Options de gestion 🔐" %}
+{% tab title="🔐 Options de gestion " %}
 Cette catégorie concerne toutes les options de gestion pouvant être activées/désactivées, par exemple :
 
 * Approuver/Expulser un membre. (_un pour chacun d'eux_)
@@ -183,3 +181,38 @@ Et bien plus à découvrir en jeu.
 {% endtabs %}
 
 :bulb: Et surtout : **chaque flag est lié aux rôles de ville**. Vous pouvez décider qui peut faire quoi, **selon son rôle** dans votre ville ou la zone. Plus besoin d'un seul flag global qui s'applique à tout le monde, vous y compris.
+
+## 🤔 Ville(s) & inactivité(s) !&#x20;
+
+{% tabs %}
+{% tab title=" 👀 Propriétaire" %}
+À partir d'un certain temps d'inactivité et en fonction de son temps de jeu, un propriétaire est considéré comme inactif ! ↙️\
+\
+Le propriétaire à moins de :
+
+* **1 heure** de jeu, il est considéré inactif après **14 jours** d'absence.
+* **12 heures** de jeu, il est considéré inactif après **30 jours** d'absence.
+* **24 heures** de jeu, il est considéré inactif après **90 jours** d'absence.
+* **72 heures** de jeu (donc moins de 3 jours), il est considéré inactif après **180 jours** d'absence.
+* Et si le propriétaire a **plus de 14 jours de jeu**, il est considéré inactif après 14 jours d'absence.
+
+**Plus tu as joué, plus tu es protégé** en tant que propriétaire, ce qui est logique 😎
+
+💡Une fois le temps d'inactivité dépassé, la ville est ainsi donnée au membre le plus haut gradé !
+{% endtab %}
+
+{% tab title="🫂 Membres" %}
+À partir d'un certain temps d'inactivité et en fonction de son temps de jeu, un membre est considéré comme inactif et est donc retiré de la ville !↙️
+
+Le membre à moins de :
+
+* **1 heure** de jeu, il est retiré après **14 jours** d'absence.
+* **6 heures** de jeu, il est retiré après **30 jours** d'absence.
+* **12 heures** de jeu, il est retiré après **60 jours** d'absence.
+* **24 heures** de jeu, il est retiré après **90 jours** d'absence.
+* Un membre qui a plus de **24 heures** de jeu est aussi retiré après **90 jours** d'absence.
+
+**Tout membre se voit donc être retiré après 90 jours d'inactivité**, quel que soit son temps de jeu. ✔️
+{% endtab %}
+{% endtabs %}
+

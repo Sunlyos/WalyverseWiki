@@ -4,8 +4,7 @@ hidden: true
 
 # 🏝️ Îles
 
-Les îles sont un espace où chaque joueur peut construire sa propre base à partir d'un bloc initial. Vous pouvez y développer des fermes, des systèmes d’automatisation et bien plus, en utilisant les ressources obtenues via votre Oneblock. En progressant, vous débloquez de nouveaux biomes et types de ressources, encourageant l'exploration et l'expansion de votre territoire, rendant le jeu plus interactif et dynamique.\
-
+Les îles sont un espace où chaque joueur peut construire sa propre base à partir d'un bloc initial. Vous pouvez y développer des fermes, des systèmes d’automatisation et bien plus, en utilisant les ressources obtenues via votre Oneblock. En progressant, vous débloquez de nouveaux biomes et types de ressources, encourageant l'exploration et l'expansion de votre territoire, rendant le jeu plus interactif et dynamique.<br>
 
 ## <mark style="color:yellow;">Utilisation</mark>
 
@@ -24,12 +23,11 @@ Pour créer votre île, utilisez la commande <mark style="color:red;">`/ob creat
 * <mark style="color:yellow;">Amélioration</mark> **:** Accédez aux améliorations de l'île ou utilisez <mark style="color:red;">`/ob upgrade`</mark>.
 * <mark style="color:yellow;">Équipe</mark> **:** Consultez les membres de l'île ou tapez <mark style="color:red;">`/ob team`</mark>.
 * <mark style="color:yellow;">L'engrenage</mark> **:** Accédez à vos paramètres avec votre clic gauche et à vos permissions avec votre clic droit ou faites <mark style="color:red;">`/ob settings`</mark> - <mark style="color:red;">`/ob permissions`</mark>.
-
-- <mark style="color:yellow;">Le podium</mark> : Consultez le classement saisonnier des îles ou utilisez <mark style="color:red;">`/ob top`</mark>.
-- <mark style="color:yellow;">Bloc de terre</mark> : Consultez la saison en cours et déposez les objets demandés pour augmenter le score de votre île ou faites <mark style="color:red;">`/ob points`</mark>.
-- <mark style="color:yellow;">La croix</mark> : Supprimez votre île actuelle pour repartir de zéro, ou utilisez <mark style="color:red;">`/ob reset`</mark>.
-- <mark style="color:yellow;">La pièce</mark> : Consultez, retirez ou déposez votre argent dans la banque d'île, ou tapez <mark style="color:red;">`/ob bank`</mark>.
-- <mark style="color:yellow;">Biomes</mark> : Changez le biome de votre île, ou utilisez <mark style="color:red;">`/ob biome`</mark>.
+* <mark style="color:yellow;">Le podium</mark> : Consultez le classement saisonnier des îles ou utilisez <mark style="color:red;">`/ob top`</mark>.
+* <mark style="color:yellow;">Bloc de terre</mark> : Consultez la saison en cours et déposez les objets demandés pour augmenter le score de votre île ou faites <mark style="color:red;">`/ob points`</mark>.
+* <mark style="color:yellow;">La croix</mark> : Supprimez votre île actuelle pour repartir de zéro, ou utilisez <mark style="color:red;">`/ob reset`</mark>.
+* <mark style="color:yellow;">La pièce</mark> : Consultez, retirez ou déposez votre argent dans la banque d'île, ou tapez <mark style="color:red;">`/ob bank`</mark>.
+* <mark style="color:yellow;">Biomes</mark> : Changez le biome de votre île, ou utilisez <mark style="color:red;">`/ob biome`</mark>.
 
 </details>
 
@@ -80,8 +78,7 @@ Vous pouvez acheter des améliorations pour votre île en tapant la commande <ma
   * Générateur Normal
   * Générateur Naturel
   * Générateur à Minerais
-  * Générateur du Nether\
-
+  * Générateur du Nether<br>
 
 </details>
 

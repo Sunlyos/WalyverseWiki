@@ -20,7 +20,7 @@ Avant de postuler, il est crucial de prendre en compte les points suivants. En e
 
 <summary><span data-gb-custom-inline data-tag="emoji" data-code="1f4c3">📃</span> <mark style="color:green;">Informations essentielles</mark></summary>
 
-* Les recrutements sont gérés par les <mark style="color:orange;">**responsables**</mark>, avec la possibilité d'une supervision par l'<mark style="color:red;">**administration**</mark> si nécessaire. [Broken link](broken-reference "mention")
+* Les recrutements sont gérés par les <mark style="color:orange;">**responsables**</mark>, avec la possibilité d'une supervision par l'<mark style="color:red;">**administration**</mark> si nécessaire. [Broken link](/broken/pages/V7ga2ApKxYDswniktTST "mention")
 * Si votre candidature est acceptée, vous passerez une **période de test d'au moins 1 mois**.
 * Il est impossible de devenir Modérateur sans avoir été Guide au préalable.
 * La double modération (être membre du staff d'un autre serveur) est interdite.

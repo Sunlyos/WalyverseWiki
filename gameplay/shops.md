@@ -26,10 +26,8 @@ Depuis ce panneau de contrôle, vous pourrez aussi modifier le prix de votre ite
 
 <summary>🔔<mark style="color:green;">Commandes</mark></summary>
 
-* De manière générale, vous pouvez faire <mark style="color:red;">`/qs help`</mark> pour accéder à la liste des commandes.\
-
-
-- Lorsque vous cherchez un item, vous pouvez utiliser la commande <mark style="color:red;">`/recherche Nom_Item_En_Anglais`</mark> : vous pourrez alors avoir la liste des potentiels shops qui vendent ou achètent l'item.\
+* De manière générale, vous pouvez faire <mark style="color:red;">`/qs help`</mark> pour accéder à la liste des commandes.<br>
+* Lorsque vous cherchez un item, vous pouvez utiliser la commande <mark style="color:red;">`/recherche Nom_Item_En_Anglais`</mark> : vous pourrez alors avoir la liste des potentiels shops qui vendent ou achètent l'item.\
   Vous pourrez vous téléporter devant le shop, voir le prix et le stock.
 
 <div align="left"><figure><img src="../.gitbook/assets/image (7).png" alt="" width="375"><figcaption></figcaption></figure></div>
@@ -37,8 +35,7 @@ Depuis ce panneau de contrôle, vous pourrez aussi modifier le prix de votre ite
 * Vous pouvez gérer les permissions de votre coffre :\
   <mark style="color:red;">`/qs staff add`</mark> : vous permet d'ajouter quelqu'un au coffre, il pourra l'ouvrir pour le remplir/vider\
   <mark style="color:red;">`/qs benefit <pourcentage> <pseudo>`</mark> : vous permet de partager les gains d'un shop.\
-  ⚠️Ce partage des gains n'est pas noté dans le message affiché lors d'un achat, mais l'argent est bien partagé.\
-
+  ⚠️Ce partage des gains n'est pas noté dans le message affiché lors d'un achat, mais l'argent est bien partagé.<br>
 * Pour supprimer un coffre <mark style="color:green;">en étant bedrock</mark>, vous pouvez faire <mark style="color:red;">`/qs remove`</mark>en regardant le panneau du shop.
 
 
