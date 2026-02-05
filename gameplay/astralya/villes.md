@@ -194,7 +194,7 @@ Le propriétaire à moins de :
 * **12 heures** de jeu, il est considéré inactif après **30 jours** d'absence.
 * **24 heures** de jeu, il est considéré inactif après **90 jours** d'absence.
 * **72 heures** de jeu (donc moins de 3 jours), il est considéré inactif après **180 jours** d'absence.
-* Et si le propriétaire a **plus de 14 jours de jeu**, il est considéré inactif après 14 jours d'absence.
+* Et si le propriétaire a **plus de 14 jours de jeu**, il est considéré inactif après 365 jours d'absence.
 
 **Plus tu as joué, plus tu es protégé** en tant que propriétaire, ce qui est logique 😎
 
