@@ -79,7 +79,7 @@ L'<mark style="color:orange;">Équipe Modération</mark> a pour rôle principal 
 
 
 
-### ![:Astralya\~1:](https://cdn.discordapp.com/emojis/1041751070680035458.webp?size=44) [**Formulaire Astralya**](https://astralya.fr/recrutements)               ![:SwayNight\~1:](https://cdn.discordapp.com/emojis/1209478509559418932.webp?size=44) [**Formulaire SwayNight**](https://swaynight.fr/recrutements)
+### ![:Astralya\~1:](https://cdn.discordapp.com/emojis/1041751070680035458.webp?size=44) [<mark style="color:$success;">**Formulaire Astralya**</mark>](https://astralya.fr/recrutements)               ![:SwayNight\~1:](https://cdn.discordapp.com/emojis/1209478509559418932.webp?size=44) [<mark style="color:yellow;">**Formulaire SwayNight**</mark>](https://swaynight.fr/recrutements)
 
 </details>
 
@@ -107,7 +107,7 @@ L’<mark style="color:yellow;">Équipe Création</mark> participe activement à
 
 
 
-### ![:Walyverse:](https://cdn.discordapp.com/emojis/1301325393520758875.webp?size=44) [**Envoyer une candidature**](https://creation.walyverse.fr/)
+### ![:Walyverse:](https://cdn.discordapp.com/emojis/1301325393520758875.webp?size=44) [<mark style="color:yellow;">**Envoyer une candidature**</mark>](https://creation.walyverse.fr/)
 
 </details>
 
@@ -137,7 +137,7 @@ L’<mark style="color:purple;">Équipe Animation</mark> est responsable de la m
 
 
 
-### ![:Walyverse:](https://cdn.discordapp.com/emojis/1301325393520758875.webp?size=44) [**Envoyer une candidature**](https://animation.walyverse.fr/)
+### ![:Walyverse:](https://cdn.discordapp.com/emojis/1301325393520758875.webp?size=44) [<mark style="color:purple;">**Envoyer une candidature**</mark>](https://animation.walyverse.fr/)
 
 </details>
 
