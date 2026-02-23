@@ -30,11 +30,9 @@ S'agissant du flood, spam, troll et des insultes, la modération ne s'applique p
 * La publicité[^7] est strictement interdite, sous toutes ses formes. Il en va de soi pour la promotion de toute méthode de triche.
 * Toute forme d'apologie religieuse, de discussion sur des sujets sensibles ou liés à la drogue, au sexe ou à l'exposition des opinions politiques est strictement interdite.
 * L'usurpation d'identité, qu'il s'agisse d'une personnalité publique ou d'un simple joueur/membre du staff, est formellement interdite.
-
-- La [promotion excessive](#user-content-fn-8)[^8] de vos warps est interdite. Veuillez limiter le nombre de messages envoyés : un seul est suffisant. Tout abus pourra être considéré comme du spam.
-- Il est interdit d'inciter un joueur à donner une note favorable à votre warp, par exemple en le rémunérant pour avoir attribué cinq étoiles. Cette pratique est assimilée à de la concurrence déloyale et sera sanctionnée.
-- Il est **interdit de divulguer la présence d'un membre du staff invisible**. Le fait d'indiquer publiquement qu'un staff en _vanish_ est connecté sera sanctionné d'un **mute**. Les staffs ne sont pas invisibles sans raison : ils le sont souvent pour **surveiller les comportements suspects, prévenir les triches ou vérifier des signalements**. Annoncer leur présence dans le tchat **gêne directement leur travail** et compromet la modération.
-
+* La [promotion excessive](#user-content-fn-8)[^8] de vos warps est interdite. Veuillez limiter le nombre de messages envoyés : un seul est suffisant. Tout abus pourra être considéré comme du spam.
+* Il est interdit d'inciter un joueur à donner une note favorable à votre warp, par exemple en le rémunérant pour avoir attribué cinq étoiles. Cette pratique est assimilée à de la concurrence déloyale et sera sanctionnée.
+* Il est **interdit de divulguer la présence d'un membre du staff invisible**. Le fait d'indiquer publiquement qu'un staff en _vanish_ est connecté sera sanctionné d'un **mute**. Les staffs ne sont pas invisibles sans raison : ils le sont souvent pour **surveiller les comportements suspects, prévenir les triches ou vérifier des signalements**. Annoncer leur présence dans le tchat **gêne directement leur travail** et compromet la modération.
 * La politesse est primordiale, notamment lors des échanges avec le staff. Un simple "bonjour" en début de conversation et un "merci" à la fin ne sont jamais de trop ! :relaxed:
 * N'hésitez pas à tendre la main à votre prochain, par exemple en aidant les autres joueurs dans le besoin ; l'entraide entre joueurs est la clé d'une communauté solidaire et harmonieuse. 💖
 
@@ -65,6 +63,15 @@ S'agissant du flood, spam, troll et des insultes, la modération ne s'applique p
   * <mark style="color:red;">Si vous avez des doutes concernant l'autorisation d'un mod, n'hésitez pas à contacter notre équipe via un ticket Discord. Il est préférable de demander plutôt que de prendre le risque d'utiliser un mod non autorisé. Le fait de ne pas être au courant de la légitimité d'un mod ne justifie pas son utilisation et des sanctions seront quand même appliquées en conséquence.</mark>
 * Il est strictement interdit d'utiliser des méthodes telles que la modification de touches ou tout autre dispositif permettant de simuler une activité en jeu, tels qu'un clic automatique ou une action répétitive, dans le but de contourner la détection AFK. Cela inclut, de manière non exhaustive, toute configuration permettant d'automatiser des actions en jeu, comme le clic automatique lorsqu'une touche est maintenue enfoncée ou l'utilisation d'un logiciel tiers. En outre, le fait d'être tout de même téléporté en zone AFK ne justifie pas l'utilisation de telles méthodes.
 * La duplication d'objets, quel que soit le moyen, ainsi que l'exploitation de toute faille, que ce soit de notre part ou de Mojang, sont strictement interdites. L'exploitation de failles inclut, de manière non exhaustive, des actions telles que se rendre sur le toit du Nether.
+*   Les quêtes et objectifs de progression doivent être réalisés **de manière loyale, sincère et conforme à leur intention initiale**. Sauf mention contraire explicite, une quête est réputée devoir être effectuée **personnellement par le joueur qui souhaite en obtenir la récompense**. Toute méthode visant à contourner l’esprit d’une quête ou à en accélérer artificiellement la validation est interdite.\
+    Cela inclut notamment, de manière non exhaustive :
+
+    * La coordination entre joueurs dans le seul but de valider un objectif plus rapidement qu'il n’a été prévu (exemple : un joueur pose un bloc qu'un autre casse en boucle pour générer une progression artificielle).
+    * L'exploitation d'une interaction entre plusieurs comptes afin de contourner une limitation technique empêchant l'auto-validation.
+    * Toute mécanique répétitive, artificielle ou détournée ne correspondant pas à une progression normale de jeu.
+
+    Le fait qu'une méthode soit techniquement possible ne signifie pas qu'elle est autorisée.\
+    L'administration se réserve le droit d’apprécier le caractère abusif d'un comportement et de sanctionner toute tentative de contournement.
 
 </details>
 
