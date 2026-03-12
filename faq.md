@@ -79,9 +79,11 @@ Tous nos serveurs sont en difficulté _<mark style="color:green;">Normale</mark>
 
 <summary>Puis-je casser des spawners ?</summary>
 
-Seuls les joueurs possédant un grade achetable sur notre `/boutique` peuvent casser des spawners. Le grade Astralis/Aetheris permet de les récupérer **sans cet enchantement**.
+Seuls les joueurs possédant un grade achetable sur notre `/boutique` peuvent casser des spawners en **monde construction**. Le grade Astralis/Aetheris permet de les récupérer **sans cet enchantement**.
 
-Si vous ne possédez pas le grade, n'hésitez pas à demander l'aide d'autres joueurs pour casser un spawner. La plupart d'entre eux sont très serviables. Toutefois, merci de respecter leur décision en cas de refus et privilégiez toujours de solliciter un autre joueur plutôt qu'un membre du staff pour ce type de service.
+Si vous ne possédez pas le grade, n'hésitez pas à demander l'aide d'autres joueurs pour casser un spawner. La plupart d'entre eux sont très serviables. Toutefois, merci de respecter leur décision en cas de refus et privilégiez toujours de solliciter un autre joueur plutôt qu'un membre du staff pour ce type de service.\
+\
+Pour des raisons de rareté, les spawners ne sont **pas** récupérables dans les mondes ressources et se cassent lorsqu'ils sont minés.
 
 </details>
 
