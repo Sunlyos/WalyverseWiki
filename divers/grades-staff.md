@@ -1,10 +1,10 @@
 # 🎓 Grades Staff
 
 ## 1. L'ADMINISTRATION
+
 L'administration est un pilier central de la structure Walyverse, chargée de la gestion quotidienne et du développement stratégique des serveurs. Elle est sous-divisée en trois rôles : Fondateur, Gérant, et Admin. Ensemble, ils collaborent pour prendre des décisions importantes, superviser les équipes, et assurer le bon fonctionnement global du groupe.
 
 Chaque administrateur a des responsabilités principales définies pour garantir le bon fonctionnement des serveurs. Cependant, leur rôle ne se limite pas à ces tâches spécifiques. Ils peuvent être amenés à accomplir d'autres missions pour répondre aux besoins de Walyverse, y compris des tâches généralement assignées à un autre membre de l'administration. Cette polyvalence permet une meilleure coordination entre toutes les équipes, assurant une gestion fluide et efficace de l'ensemble de Walyverse.
-
 
 ### <mark style="color:red;">Fondateur</mark>
 
@@ -18,8 +18,6 @@ _Le gérant occupe un rôle crucial dans la hiérarchie du haut-staff, se situan
 
 _Les administrateurs sont essentiels au bon fonctionnement des serveurs, couvrant une large gamme de responsabilités. Ils gèrent des aspects clés tels que la partie technique, la communication et le support-admin. Leur travail comprend le développement de nouvelles fonctionnalités, la mise à jour régulière des serveurs et la résolution des problèmes techniques qui peuvent survenir. Au-delà de ces aspects techniques, les administrateurs sont également impliqués dans la gestion du staff. Ils soutiennent les responsables, les encadrant au besoin, et s'assurent que les communications entre les différentes équipes sont fluides et efficaces. De plus, ils gèrent les tickets admin et supervisent les équipes du staff hors modération, comme les animateurs, builders et rédacteurs._
 
-
-
 {% hint style="danger" %}
 À noter que si vous avez un problème sur un quelconque serveur, il est impératif d'**ouvrir un ticket** plutôt que de contacter directement l'administration. La modération est chargée de traiter ces tickets et, si nécessaire, de les transférer aux administrateurs. Les admins, et particulièrement le fondateur, sont souvent très occupés avec leurs nombreuses responsabilités, donc **passer par le système de tickets permet de mieux gérer les demandes et d'assurer une réponse plus efficace**.
 {% endhint %}
@@ -27,6 +25,7 @@ _Les administrateurs sont essentiels au bon fonctionnement des serveurs, couvran
 ***
 
 ## 2. ÉQUIPE MODÉRATION
+
 _L'Équipe Modération a pour rôle principal d’accompagner les joueurs, répondre à leurs questions et veiller à une expérience de jeu agréable. Elle est également chargée de faire respecter le règlement et de sanctionner les comportements inappropriés. Contrairement aux autres équipes de Walyverse, comme le build, le graphisme ou la rédaction, la modération n'est pas commune à tout le groupe. Chaque serveur possède sa propre équipe de modération indépendante, agissant spécifiquement sur le serveur dont elle fait partie, tout en étant liée à la structure globale de Walyverse._
 
 > [Rejoindre l'équipe d'Astralya](https://astralya.fr/recrutements)
@@ -37,10 +36,9 @@ _L'Équipe Modération a pour rôle principal d’accompagner les joueurs, répo
 
 _Le responsable modération supervise l’ensemble de l’équipe de modération. Il gère les recrutements, les déranks et l’évolution des membres. Il intervient dans des situations complexes et veille à la bonne organisation de la modération sur le serveur. Il est aussi en charge de la gestion des conflits internes au sein de l’équipe et collabore directement avec l'administration pour assurer un environnement harmonieux. Il englobe aussi les tâches des rôles en dessous, comme la surveillance, l’assistance et la gestion des sanctions._
 
-
 ### <mark style="color:orange;">Modérateur+</mark>
 
-_Il s'agit d'un modérateur avec quelques responsabilités et permissions supplémentaires. Il gère notamment les partenaires, les sanctions sur le serveur créatif et intervient dans des situations plus complexes. Proche du responsable, il joue un rôle clé dans l’organisation de la modération. Il englobe aussi les tâches des rôles en dessous, comme la surveillance et l'assistance._
+_Il s'agit d'un modérateur avec quelques responsabilités et permissions supplémentaires. Proche du responsable, il joue un rôle clé dans l’organisation de la modération et intervient dans des situations plus complexes. Il englobe aussi les tâches des rôles en dessous, comme la surveillance et l'assistance._
 
 ### <mark style="color:orange;">Modérateur</mark>
 
@@ -57,8 +55,8 @@ _Exclusivement présent sur Discord, sans accès en jeu, il gère les tickets et
 ***
 
 ## 3. ÉQUIPE CRÉATION
-L’Équipe Création participe activement à la conception et à l’écriture des quêtes temporaires, principalement pour les grands événements comme Halloween, Noël et d'autres événements majeurs. Elle développe des quêtes originales et immersives, avec des objectifs variés, et des histoires captivantes. Elle travaille en collaboration directe avec l'administration et l'équipe de build pour concevoir des événements mémorables.
-Attention, l'équipe de création se focalise sur les événements majeurs, tels que Noël et Halloween. Elle ne doit pas être confondue avec l’équipe animation, qui organise des événements plus petits, généralement le dimanche, comme du jump, du parcours, ou du spleef.
+
+L’Équipe Création participe activement à la conception et à l’écriture des quêtes temporaires, principalement pour les grands événements comme Halloween, Noël et d'autres événements majeurs. Elle développe des quêtes originales et immersives, avec des objectifs variés, et des histoires captivantes. Elle travaille en collaboration directe avec l'administration et l'équipe de build pour concevoir des événements mémorables. Attention, l'équipe de création se focalise sur les événements majeurs, tels que Noël et Halloween. Elle ne doit pas être confondue avec l’équipe animation, qui organise des événements plus petits, généralement le dimanche, comme du jump, du parcours, ou du spleef.
 
 > [Rejoindre l'équipe création](https://creation.walyverse.fr/)
 
@@ -77,8 +75,8 @@ _Il se concentre sur la rédaction des quêtes, sans accès en jeu. Il utilise l
 ***
 
 ## 4. ÉQUIPE ANIMATION
-L’Équipe Animation est responsable de la mise en place et de l’animation des événements du dimanche sur Walyverse. Leur rôle est d’imaginer et de concevoir des animations originales, de créer les zones nécessaires en jeu, et de gérer l’ensemble de l’organisation pour garantir une expérience divertissante pour tous les joueurs. Elle travaille en collaboration avec l'administration pour concevoir des événements mémorables.
-Attention, elle ne doit pas être confondue avec l’équipe création, qui se focalise sur les événements majeurs comme Noël et Halloween, en concevant des quêtes et des activités de plus grande envergure. L’équipe animation se concentre sur l’organisation des événements plus petits et réguliers, principalement les événements du dimanche, tels que du jump, de parcours, ou du spleef.
+
+L’Équipe Animation est responsable de la mise en place et de l’animation des événements du dimanche sur Walyverse. Leur rôle est d’imaginer et de concevoir des animations originales, de créer les zones nécessaires en jeu, et de gérer l’ensemble de l’organisation pour garantir une expérience divertissante pour tous les joueurs. Elle travaille en collaboration avec l'administration pour concevoir des événements mémorables. Attention, elle ne doit pas être confondue avec l’équipe création, qui se focalise sur les événements majeurs comme Noël et Halloween, en concevant des quêtes et des activités de plus grande envergure. L’équipe animation se concentre sur l’organisation des événements plus petits et réguliers, principalement les événements du dimanche, tels que du jump, de parcours, ou du spleef.
 
 > [Rejoindre l'équipe animation](https://animation.walyverse.fr/)
 
